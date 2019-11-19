@@ -149,7 +149,7 @@ func parseDebetCreditLine(line Line, resultUnits []*ResultUnit, buffer *[]Line, 
 	return false
 }
 
-func parseEmptyLine(line Line, resultUnits []*ResultUnit, buffer *[]Line, currentResultUnits *[]*ResultUnit) bool {
+func parseEmptyLine(line Line, _ []*ResultUnit, buffer *[]Line, _ *[]*ResultUnit) bool {
 	ver := line[0]
 	if ver == "" {
 		*buffer = append(*buffer, line)
@@ -202,12 +202,16 @@ func dumpXLSX(buffer []Line) ([]byte, string, error) {
 	if err != nil {
 		return nil, "", err
 	}
+	widths := []float64{10, 10, 70, 10, 30, 10, 10, 10}
 	for _, r := range buffer {
 		row := sheet.AddRow()
 		for _, c := range r {
 			cell := row.AddCell()
 			cell.Value = c
 		}
+	}
+	for i, c := range sheet.Cols {
+		c.Width = widths[i]
 	}
 
 	buff := &bytes.Buffer{}
