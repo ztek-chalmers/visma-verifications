@@ -32,10 +32,20 @@ type DumpFn func(buffer []Line) ([]byte, string, error)
 type Line []string
 
 func main() {
+	resultMap := map[string]string{
+		"IntrezzeK": "Ztyret",
+		"Revisorer": "Ztyret",
+		"VB":        "Ztyret",
+		"ZKK":       "Ztyret",
+		"Zpel":      "Ztyret",
+		"Ztyret":    "Ztyret",
+		"ZÅG":       "Ztyret",
+		"ZØK":       "Ztyret",
+	}
 	inFile, outDir, dumpFn := parseCLIArguments()
 	lines := readFile(inFile)
 	resultUnits := splitFileByResult(lines)
-	writeFile(resultUnits, dumpFn, outDir)
+	writeFile(resultUnits, resultMap, dumpFn, outDir)
 }
 
 func parseCLIArguments() (string, string, DumpFn) {
@@ -231,8 +241,8 @@ func dumpCSV(buffer []Line) ([]byte, string, error) {
 	return buff.Bytes(), "csv", nil
 }
 
-func writeFile(resultUnits []*ResultUnit, dump DumpFn, outDir string) {
-	err := os.MkdirAll(outDir, 0770)
+func writeFile(resultUnits []*ResultUnit, resultMap map[string]string, dump DumpFn, exportDir string) {
+	err := os.MkdirAll(exportDir, 0770)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -241,7 +251,20 @@ func writeFile(resultUnits []*ResultUnit, dump DumpFn, outDir string) {
 		if err != nil {
 			log.Printf("Failed to export result for %s: %s", owner.Name, err)
 		}
-		outFile := path.Join(outDir, owner.Name+"."+ext)
+		var outFile string
+		if targetDir, ok := resultMap[owner.Name]; ok {
+			outDir := path.Join(exportDir, targetDir)
+			_ = os.MkdirAll(outDir, 0770)
+			outFile = path.Join(outDir, owner.Name+"."+ext)
+		} else {
+			outDir := path.Join(exportDir, owner.Name)
+			err = os.MkdirAll(outDir, 0770)
+			if err != nil {
+				log.Printf("Failed to export result for %s: %s", owner.Name, err)
+			}
+			outFile = path.Join(outDir, "13. Verifikatlista."+ext)
+		}
+
 		err = ioutil.WriteFile(outFile, data, 0664)
 		if err != nil {
 			log.Printf("Failed to export result for %s: %s", owner.Name, err)
