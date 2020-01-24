@@ -40,7 +40,7 @@ func main() {
 		"Zpel":      "Ztyret",
 		"Ztyret":    "Ztyret",
 		"ZÅG":       "Ztyret",
-		"ZØK":       "Ztyret",
+		"WebGroup":  "Ztyret",
 	}
 	inFile, outDir, dumpFn := parseCLIArguments()
 	lines := readFile(inFile)
@@ -212,7 +212,7 @@ func dumpXLSX(buffer []Line) ([]byte, string, error) {
 	if err != nil {
 		return nil, "", err
 	}
-	widths := []float64{10, 10, 70, 10, 30, 10, 10, 10}
+	widths := []float64{10, 15, 70, 10, 30, 10, 10, 10}
 	for _, r := range buffer {
 		row := sheet.AddRow()
 		for _, c := range r {
