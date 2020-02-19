@@ -8,6 +8,9 @@ jobs:
       matrix:
         os: [windows-latest, macos-latest]
     steps:
+    - name: Get current time
+      uses: gerred/actions/current-time@master
+      id: current-time
 
     - name: Set up Go 1.13
       uses: actions/setup-go@v1
@@ -31,8 +34,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
       with:
-        tag_name: ${{ github.ref }}-${{ github.sha }}
-        release_name: Release ${{matrix.os}} ${{ github.sha }}
+        tag_name: ${{matrix.os}}-${{ github.sha }}
+        release_name: Release ${{ steps.current-time.outputs.time }} ${{matrix.os}} ${{ github.sha }}
         body: All notable changes to this version has been documented in the CHANGELOG.md file. 
         draft: false
         prerelease: false
