@@ -32,6 +32,27 @@ type DumpFn func(buffer []Line) ([]byte, string, error)
 type Line []string
 
 func main() {
+	inFile, outDir, dumpFn := parseCLIArguments()
+	defaultResultUnitName, resultMap := getConfiguration()
+	lines := readFile(inFile)
+	resultUnits := findResultUnits(lines)
+	var defaultResultUnit *ResultUnit
+	for _, r := range resultUnits {
+		if r.Name == defaultResultUnitName {
+			defaultResultUnit = r
+			break
+		}
+	}
+	if defaultResultUnit == nil {
+		panic("A result unit with the name Ztyret was not found ")
+	}
+	splitFileByResult(resultUnits, defaultResultUnit, lines)
+	writeFile(resultUnits, resultMap, dumpFn, outDir)
+}
+
+func getConfiguration() (string, map[string]string) {
+	// Hard coded for Automation och Mekatronik
+	defaultResultUnitName := "Ztyret"
 	resultMap := map[string]string{
 		"IntrezzeK": "Ztyret",
 		"Revisorer": "Ztyret",
@@ -42,10 +63,7 @@ func main() {
 		"ZÅG":       "Ztyret",
 		"WebGroup":  "Ztyret",
 	}
-	inFile, outDir, dumpFn := parseCLIArguments()
-	lines := readFile(inFile)
-	resultUnits := splitFileByResult(lines)
-	writeFile(resultUnits, resultMap, dumpFn, outDir)
+	return defaultResultUnitName, resultMap
 }
 
 func parseCLIArguments() (string, string, DumpFn) {
@@ -111,8 +129,7 @@ func readFile(inFile string) []Line {
 //    the current result unit's, in other words the kommittees affected by this
 //    "verifikat". The new verifikat is added to the buffer and [2] is repeated.
 //
-func splitFileByResult(lines []Line) []*ResultUnit {
-	resultUnits := findResultUnits(lines)
+func splitFileByResult(resultUnits []*ResultUnit, defaultResultUnit *ResultUnit, lines []Line) []*ResultUnit {
 	currentResultUnits := make([]*ResultUnit, 0)
 	buffer := make([]Line, 0)
 	for _, line := range lines {
@@ -128,7 +145,7 @@ func splitFileByResult(lines []Line) []*ResultUnit {
 		if parsed {
 			continue
 		}
-		parsed = parseNewVerificatLine(line, resultUnits, &buffer, &currentResultUnits)
+		parsed = parseNewVerificatLine(line, defaultResultUnit, &buffer, &currentResultUnits)
 		if parsed {
 			continue
 		}
@@ -168,9 +185,9 @@ func parseEmptyLine(line Line, _ []*ResultUnit, buffer *[]Line, _ *[]*ResultUnit
 	return false
 }
 
-func parseNewVerificatLine(line Line, resultUnits []*ResultUnit, buffer *[]Line, currentResultUnits *[]*ResultUnit) bool {
+func parseNewVerificatLine(line Line, defaultResultUnit *ResultUnit, buffer *[]Line, currentResultUnits *[]*ResultUnit) bool {
 	if len(*currentResultUnits) == 0 {
-		*currentResultUnits = resultUnits
+		*currentResultUnits = []*ResultUnit{defaultResultUnit}
 	}
 	for _, b := range *buffer {
 		buff := b
