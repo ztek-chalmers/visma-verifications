@@ -44,7 +44,7 @@ func main() {
 		}
 	}
 	if defaultResultUnit == nil {
-		panic("A result unit with the name Ztyret was not found ")
+		panic("A result unit with the name Ztyret was not found. Have you remembered to include Kommitéer/utskott?")
 	}
 	splitFileByResult(resultUnits, defaultResultUnit, lines)
 	writeFile(resultUnits, resultMap, dumpFn, outDir)
@@ -279,7 +279,7 @@ func writeFile(resultUnits []*ResultUnit, resultMap map[string]string, dump Dump
 			if err != nil {
 				log.Printf("Failed to export result for %s: %s", owner.Name, err)
 			}
-			outFile = path.Join(outDir, "13. Verifikatlista."+ext)
+			outFile = path.Join(outDir, "14. Verifikatlista."+ext)
 		}
 
 		err = ioutil.WriteFile(outFile, data, 0664)
