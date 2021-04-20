@@ -60,8 +60,10 @@ func getConfiguration() (string, map[string]string) {
 		"ZKK":       "Ztyret",
 		"Zpel":      "Ztyret",
 		"Ztyret":    "Ztyret",
-		"ZÅG":       "Ztyret",
 		"WebGroup":  "Ztyret",
+		"FanBär": 	 "Ztyret",
+		"Z-Foto": 	 "Ztyret",
+		"JämZ": 	 "Ztyret",
 	}
 	return defaultResultUnitName, resultMap
 }

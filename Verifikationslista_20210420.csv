@@ -1,0 +1,2185 @@
+﻿"""Preliminär Verifikationslista""";;;;;;;
+Teknologsektionen för Automation och Mekatronik;;;;;;;
+857209-1331;;;;;;;
+"""Utskriftsdatum"": den 20 April 2021 08:26:42";;;;;;;
+;;;;;;;
+"""Räkenskapsår:"" 2020-07-01 - 2021-06-30";;;;;;;
+"""Avser perioden"" 2020-07-01 - 2021-06-30";;;;;;;
+;;;;;;;
+"""Verifikation""";"""Datum""";"""Beskrivning/Konto""";"""Typ""";"""Projekt""";"""Kommittéer/Utskott""";"""Debet""";"""Kredit"""
+A 1;2020-07-27;Kvittning 6 Chalmers Studentkår, 20 mot 7;Manuell verifikation;;;;
+;;1510 Kundfordringar;;;;;49000.00
+;;1510 Kundfordringar;;;;49000.00;
+;;;;;;;
+A 2;2020-08-03;Inköp pärmar, häftstift till ZtyreP;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Kontorsmaterial;Ztyret;;194.69
+;;6120 Inköp Förbrukningsmaterial;;Kontorsmaterial;Ztyret;194.69;
+;;;;;;;
+A 3;2020-08-07;ZÅG startkapital;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Startbelopp;Ztyret;;39000.00
+;;1942 Bank Överföring;;Startbelopp;ZÅG;39000.00;
+;;;;;;;
+A 4;2020-08-06;Arbetsmat över budget (återbetalning av A818);Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;20.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;;20.00
+;;;;;;;
+A 5;2020-08-04;Betalning av utköp flygbiljetter (Betalning av A1042);Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;6992.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;;6992.00
+;;;;;;;
+A 6;2020-07-27;Hyra motionshall (skuld tillbaka från ZIK, A1038);Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;750.00;
+;;1615 Fordringar internt;;;Ztyret;;750.00
+;;;;;;;
+A 7;2020-07-22;GTC Marknadsföring;Övrig insättning;;;;
+;;1931 Bank ArgZ;;;ArgZ;1000.00;
+;;3112 Intäkter Sponsring;;;ArgZ;;1000.00
+;;;;;;;
+A 8;2020-07-30;Hajken, Hyrning stuga;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Hajk;ZØK;;11000.00
+;;4030 Hyra Lokal;;Hajk;ZØK;11000.00;
+;;;;;;;
+A 9;2020-08-03;Äskning, Minskad spons pga Corona;Övrig insättning;;;;
+;;1937 Bank ZNollK;;Kommitéäskningar;ZØK;8000.00;
+;;1942 Bank Överföring;;Kommitéäskningar;ZØK;;8000.00
+;;;;;;;
+A 10;2020-08-06;Internreps, Tacos;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;241.38
+;;6700 Kostnader Representation;;;ZØK;241.38;
+;;;;;;;
+A 11;2020-08-11;Spons TechTribe;Övrig insättning;;;;
+;;1937 Bank ZNollK;;;ZØK;6500.00;
+;;3112 Intäkter Sponsring;;;ZØK;;6500.00
+;;;;;;;
+A 12;2020-08-14;Nolluppdrag, längdskidor;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;100.00
+;;6110 Inköp Utrustning;;;ZØK;100.00;
+;;;;;;;
+A 13;2020-08-05;Förbrukning Daltonzkraft under Vårlan;Manuell verifikation;;;;
+;;1450 Lager;;DaltonZKraft;DaltonZ;;510.00
+;;4000 Inköp av Mat;;DaltonZKraft;DaltonZ;510.00;
+;;;;;;;
+A 14;2020-08-03;Äskning coronamottagning (korrigerad (nollad) med verifikation A324 av Ztyret Kassör, 2020-12-06);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Kommitéäskningar;Ztyret;;8000.00
+;;1937 Bank ZNollK;;Kommitéäskningar;ZØK;8000.00;
+;;;;;;;
+A 15;2020-07-31;Brevlåda till Zaloonen;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;504.35
+;;6110 Inköp Utrustning;;;JämZ;504.35;
+;;;;;;;
+A 16;2020-07-31;Internreps mat för JämZ;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;495.00
+;;6700 Kostnader Representation;;;JämZ;495.00;
+;;;;;;;
+A 17;2020-08-20;Kaffe till Zaloonen;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Zaloonenfika;Ztyret;;498.60
+;;4000 Inköp av Mat;;Zaloonenfika;ZKK;498.60;
+;;;;;;;
+A 18;2020-08-26;MAXI ICA STORMARKNAD H K2297;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;366.52
+;;4000 Inköp av Mat;;#1 Zittningen;ZEXET;204.82;
+;;4020 Övriga kostnader arrangemang;;#1 Zittningen;ZEXET;161.70;
+;;;;;;;
+A 19;2020-08-26;WILLYS HEMMA GÖTEBORG K2297;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;33.40
+;;4000 Inköp av Mat;;#1 Zittningen;ZEXET;33.40;
+;;;;;;;
+A 20;2020-08-26;SNABBGROSS SISJÖN K2297;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;482.22
+;;4020 Övriga kostnader arrangemang;;#1 Zittningen;ZEXET;482.22;
+;;;;;;;
+A 21;2020-08-26;SNABBGROSS SISJÖN K2297;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;3403.09
+;;4000 Inköp av Mat;;#1 Zittningen;ZEXET;3403.09;
+;;;;;;;
+A 22;2020-07-13;Färg till benen betalat till Emilia;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;787.00
+;;6701 Kostnader Arbetsklädsel;;;ZEXET;787.00;
+;;;;;;;
+A 23;2020-08-26;pq och häftapparat till max för utskrift och häftning av sånghäften;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;325.00
+;;6120 Inköp Förbrukningsmaterial;;;ZEXET;25.00;
+;;6800 Övriga externa kostnader;;;ZEXET;300.00;
+;;;;;;;
+A 24;2020-08-26;Insättning till Charlie för arbetsmat första zittningen;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;445.00
+;;6640 Arbetsmat;;#1 Zittningen;ZEXET;445.00;
+;;;;;;;
+A 25;2020-08-26;GIBRALTAR PIZZERIA KOM K2297;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;375.00
+;;6640 Arbetsmat;;#1 Zittningen;ZEXET;375.00;
+;;;;;;;
+A 26;2020-08-26;Insättning till Viktor för Spel under rundvandring och hyra KG #1 sittning;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;1600.00
+;;4030 Hyra Lokal;;#1 Zittningen;ZEXET;1500.00;
+;;6800 Övriga externa kostnader;;Första dagarna mottagningen;ZEXET;100.00;
+;;;;;;;
+A 27;2020-08-24;Korrigering av ver.nr. A1078, Internrep, ZÅG, LP1, Hajk (av Kassör ZÅG, 2020-09-02) (korrigerad med verifikation A28 av Kassör ZÅG, 2020-09-02);Inköp mot kvitto;;;;
+;;1941 Bank ZÅG;;;ZÅG;454.10;
+;;6700 Kostnader Representation;;;ZÅG;;454.10
+;;;;;;;
+A 28;2020-08-24;Korrigering av ver.nr. A27, Korrigering av ver.nr. A1078, Internrep, ZÅG, LP1, Hajk (av Kassör ZÅG, 2020-09-02) (av Kassör ZÅG, 2020-09-02);Inköp mot kvitto;;;;
+;;1941 Bank ZÅG;;;ZÅG;;454.10
+;;6700 Kostnader Representation;;;ZÅG;454.10;
+;;;;;;;
+A 29;2020-09-01;WILLYS HEMMA GÖTEBORG K1208;Övrigt uttag;;;;
+;;1933 Bank SNZ;;Konstruktionstävling;SNZ;;62.70
+;;4000 Inköp av Mat;;Konstruktionstävling;SNZ;62.70;
+;;;;;;;
+A 30;2020-09-01;Glass till ordföranderåd;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Ordföranderåd;Ztyret;;93.70
+;;6703 Kostnader Möten;;Ordföranderåd;Ztyret;93.70;
+;;;;;;;
+A 31;2020-08-24;Internrep, ZÅG, Hajk;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;454.10
+;;6700 Kostnader Representation;;;ZÅG;454.10;
+;;;;;;;
+A 32;2020-08-07;ZÅG startkapital   Överföring via internet;Övrig insättning;;;;
+;;1941 Bank ZÅG;;;ZÅG;39000.00;
+;;1942 Bank Överföring;;;ZÅG;;39000.00
+;;;;;;;
+A 33;2020-09-02;Mat Konstruktion;Övrigt uttag;;;;
+;;1933 Bank SNZ;;Konstruktionstävling;SNZ;;488.64
+;;4000 Inköp av Mat;;Konstruktionstävling;SNZ;488.64;
+;;;;;;;
+A 34;2020-08-27;Inköp av dryck till Nollan under mottagningen;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;49.70
+;;4000 Inköp av Mat;;;ZIK;49.70;
+;;;;;;;
+A 35;2020-08-21;Inköp av mat till aktivitet under mottagningen;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;56.85
+;;4000 Inköp av Mat;;;ZIK;56.85;
+;;;;;;;
+A 36;2020-09-02;Sektionsmärken, ZÅG;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;125.00
+;;6701 Kostnader Arbetsklädsel;;;ZÅG;125.00;
+;;;;;;;
+A 37;2020-08-21;Inköp av mat som pris för nollan under mottagningen;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;87.60
+;;4000 Inköp av Mat;;;ZIK;87.60;
+;;;;;;;
+A 38;2020-08-20;Inköp av lättöl till PongZ under mottagningen;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;373.85
+;;4000 Inköp av Mat;;;ZIK;373.85;
+;;;;;;;
+A 39;2020-08-26;Internrepresentation mat Ztyret;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;318.00
+;;6700 Kostnader Representation;;;Ztyret;318.00;
+;;;;;;;
+A 40;2020-08-28;Inköp av blandare samt reservdel till blandare, VVS;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;1566.75
+;;6800 Övriga externa kostnader;;;ZÅG;1566.75;
+;;;;;;;
+A 41;2020-08-18;Internrepresentation mat Miss Fajitas;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;481.00
+;;6700 Kostnader Representation;;;ZIK;481.00;
+;;;;;;;
+A 42;2020-08-24;Byxor, Kommitéklädsel, ZÅG;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;2910.00
+;;6701 Kostnader Arbetsklädsel;;;ZÅG;2910.00;
+;;;;;;;
+A 43;2020-08-27;Inköp av lättöl till PongZ 2;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;271.05
+;;4000 Inköp av Mat;;;ZIK;271.05;
+;;;;;;;
+A 44;2020-07-27;Hyra av motionshall 20/21;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;750.00
+;;2815 Skulder internt;;;ZIK;750.00;
+;;2815 Skulder internt;;;ZIK;;750.00
+;;4030 Hyra Lokal;;;ZIK;750.00;
+;;;;;;;
+A 45;2020-09-02;Kubb till mottagning;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;298.00
+;;6110 Inköp Utrustning;;;JämZ;298.00;
+;;;;;;;
+A 46;2020-09-02;Konferenstelefon;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Kontorsmaterial;Ztyret;;1290.00
+;;6120 Inköp Förbrukningsmaterial;;Kontorsmaterial;Ztyret;1290.00;
+;;;;;;;
+A 47;2020-09-09;Arbetsmat Ztyret;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;198.00
+;;6640 Arbetsmat;;;Ztyret;198.00;
+;;;;;;;
+A 48;2020-09-03;Onsdagslunch;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Onsdagslunch;Ztyret;;713.34
+;;4000 Inköp av Mat;;Onsdagslunch;Ztyret;713.34;
+;;;;;;;
+A 49;2020-08-31;Bil hämtning tält;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;292.00
+;;5610 Transportkostnader;;;Ztyret;292.00;
+;;;;;;;
+A 50;2020-09-02;Försäljning sektionsmärken till ZÅG;Övrig insättning;;;;
+;;1930 Bank Ztyret;;Z-Accessoarer;Ztyret;125.00;
+;;1450 Lager;;Z-Accessoarer;Ztyret;;125.00
+;;;;;;;
+A 51;2020-09-10;Arbetsmat på bokföringskväll;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Bokföingskvällar;Ztyret;;285.00
+;;6640 Arbetsmat;;Bokföingskvällar;Ztyret;265.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;20.00;
+;;;;;;;
+A 52;2020-09-07;Teknologäskning Sara Tell DaltonZ Jubileum;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Teknologäskningar;Ztyret;;3000.00
+;;6600 Teknologäskningar;;;Ztyret;3000.00;
+;;;;;;;
+A 53;2020-09-02;iZettle - Inbetalning aug;Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;56131.61;
+;;6605 Licenser och avgifter för tjänst;;iZettle avgifter;Ztyret;1000.39;
+;;1690 Fordran iZettle;;;Ztyret;;57132.00
+;;;;;;;
+A 54;2020-09-14;inköp nollspecia;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Zenithsläpp Nollspecial;Zenith;;2172.07
+;;4000 Inköp av Mat;;Zenithsläpp Nollspecial;Zenith;2172.07;
+;;;;;;;
+A 55;2020-09-14;arbetsmat 2/9 tidnings workshop;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;;Zenith;;264.00
+;;6640 Arbetsmat;;;Zenith;264.00;
+;;;;;;;
+A 56;2020-09-14;sistaminuten inköp matvaror amazingrace;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Amazing Race;Zenith;;32.90
+;;4000 Inköp av Mat;;Amazing Race;Zenith;32.90;
+;;;;;;;
+A 57;2020-09-14;andra sistaminuten inköp matvaror amazingrace;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Amazing Race;Zenith;;454.20
+;;4000 Inköp av Mat;;Amazing Race;Zenith;454.20;
+;;;;;;;
+A 58;2020-09-15;Bil för att lämna tält;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;282.00
+;;5610 Transportkostnader;;;Ztyret;282.00;
+;;;;;;;
+A 59;2020-08-17;Batterier Boombox & Megafon;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;299.70
+;;6120 Inköp Förbrukningsmaterial;;;ZØK;299.70;
+;;;;;;;
+A 60;2020-08-17;Inköp Megafon;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Kontorsmaterial;ZØK;;449.00
+;;6110 Inköp Utrustning;;Kontorsmaterial;ZØK;449.00;
+;;;;;;;
+A 61;2020-08-17;Inköp Munskydd;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;738.00
+;;6120 Inköp Förbrukningsmaterial;;;ZØK;738.00;
+;;;;;;;
+A 62;2020-08-17;Internreps, Brunch Boulebar;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;2765.00
+;;6700 Kostnader Representation;;;ZØK;2765.00;
+;;;;;;;
+A 63;2020-08-18;Inköp Nolluppdrag;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;33.38
+;;4020 Övriga kostnader arrangemang;;;ZØK;33.38;
+;;;;;;;
+A 64;2020-08-18;Inköp Phadderpicknick;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;137.09
+;;4000 Inköp av Mat;;;ZØK;137.09;
+;;;;;;;
+A 65;2020-08-18;Pastasallad första dagarna;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Första dagarna mottagningen;ZØK;;5957.74
+;;4000 Inköp av Mat;;Första dagarna mottagningen;ZØK;5957.74;
+;;;;;;;
+A 66;2020-08-18;Inköp förbrukningsmaterial samt Nollbricksfärg;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;1634.70
+;;6120 Inköp Förbrukningsmaterial;;;ZØK;1634.70;
+;;;;;;;
+A 67;2020-08-18;Inköp Nolluppdrag;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;179.00
+;;4020 Övriga kostnader arrangemang;;;ZØK;179.00;
+;;;;;;;
+A 68;2020-08-18;Inköp CD-skivor och batterier boombox;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;299.50
+;;6120 Inköp Förbrukningsmaterial;;;ZØK;299.50;
+;;;;;;;
+A 69;2020-08-18;Inköp skoskydd första dagen;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Första dagarna mottagningen;ZØK;;209.70
+;;6120 Inköp Förbrukningsmaterial;;Första dagarna mottagningen;ZØK;209.70;
+;;;;;;;
+A 70;2020-08-21;Äskning programmet;Övrig insättning;;;;
+;;1937 Bank ZNollK;;Äskning programmet;ZØK;48000.00;
+;;3920 Äskningar;;Äskning programmet;ZØK;;48000.00
+;;;;;;;
+A 71;2020-08-24;Inköp Hajken;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Hajk;ZØK;;179.90
+;;4000 Inköp av Mat;;Hajk;ZØK;141.60;
+;;4020 Övriga kostnader arrangemang;;Hajk;ZØK;38.30;
+;;;;;;;
+A 72;2020-08-24;Inköp Hajken;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Hajk;ZØK;;5645.48
+;;4000 Inköp av Mat;;Hajk;ZØK;5645.48;
+;;;;;;;
+A 73;2020-08-24;Inköp silvertejp;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;199.02
+;;6120 Inköp Förbrukningsmaterial;;;ZØK;199.02;
+;;;;;;;
+A 74;2020-08-24;Inköp Hajken extra;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Hajk;ZØK;;362.65
+;;4000 Inköp av Mat;;Hajk;ZØK;362.65;
+;;;;;;;
+A 75;2020-08-25;Inköp ZÅG, depp;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;95.60
+;;4020 Övriga kostnader arrangemang;;;ZØK;95.60;
+;;;;;;;
+A 76;2020-08-31;Inköp mat Nolluppdragsbrunch 1;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Brunch;ZØK;;926.35
+;;4000 Inköp av Mat;;Brunch;ZØK;926.35;
+;;;;;;;
+A 77;2020-09-01;Pizza första dagen;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Första dagarna mottagningen;ZØK;;7870.00
+;;4000 Inköp av Mat;;Första dagarna mottagningen;ZØK;7870.00;
+;;;;;;;
+A 78;2020-09-10;Inköp av mat från Axfood till onsdagslunchen (korrigerad med verifikation A171 av Kassör ZIK, 2020-11-11);Inköp mot kvitto;;;;
+;;1936 Bank ZIK;;;;;524.05
+;;5400 Förbrukningsinventarier och förbrukningsmaterial (gruppkonto);;;;524.05;
+;;;;;;;
+A 79;2020-08-31;Kortköp/uttag COOP LANDALA K2297;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;Mottagningspub gasquen;ZEXET;;329.30
+;;4000 Inköp av Mat;;Mottagningspub gasquen;ZEXET;329.30;
+;;;;;;;
+A 80;2020-08-27;Kortköp/uttag SYSTEMBOLAGET GÖTEBORG K2297;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;5704.00
+;;4002 Inköp av Vin;;#1 Zittningen;ZEXET;4594.00;
+;;4003 Inköp av Sprit;;#1 Zittningen;ZEXET;1110.00;
+;;;;;;;
+A 81;2020-08-26;MAXI ICA STORMARKNAD H K2297;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;124.15
+;;4000 Inköp av Mat;;#1 Zittningen;ZEXET;124.15;
+;;;;;;;
+A 82;2020-09-01;Överföring via internet DJ Albin Jonsson pub gasque;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;Mottagningspub gasquen;ZEXET;;500.00
+;;6800 Övriga externa kostnader;;Mottagningspub gasquen;ZEXET;500.00;
+;;;;;;;
+A 83;2020-09-02;Kortköp/uttag temashop.se K2297;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;Cowboysittning;ZEXET;;361.00
+;;4020 Övriga kostnader arrangemang;;Cowboysittning;ZEXET;361.00;
+;;;;;;;
+A 84;2020-09-01;internreps bastu;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;1600.00
+;;6700 Kostnader Representation;;;ZEXET;1600.00;
+;;;;;;;
+A 85;2020-09-08;Kortköp/uttag SYSTEMBOLAGET GÖTEBORG K2297;Övrig insättning;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;1465.00;
+;;4002 Inköp av Vin;;#1 Zittningen;ZEXET;;1465.00
+;;;;;;;
+A 86;2020-09-04;Gasquepub mottagningen;Övrig insättning;;;;
+;;1935 Bank ZEXET;;Mottagningspub gasquen;ZEXET;3361.00;
+;;1691 Övriga fordringar;;Mottagningspub gasquen;ZEXET;;3361.00
+;;;;;;;
+A 87;2020-09-12;Mottagningspub gasquen, det diffade 0,29 kr i rapporten;Manuell verifikation;;;;
+;;1691 Övriga fordringar;;Mottagningspub gasquen;ZEXET;3361.00;
+;;3100 Intäkter Mat;;Mottagningspub gasquen;ZEXET;;332.59
+;;3103 Intäkter Sprit;;Mottagningspub gasquen;ZEXET;;6090.80
+;;4030 Hyra Lokal;;Mottagningspub gasquen;ZEXET;1500.00;
+;;4001 Inköp av Starköl;;Mottagningspub gasquen;ZEXET;2778.48;
+;;6800 Övriga externa kostnader;;Mottagningspub gasquen;ZEXET;65.40;
+;;3104 Intäkter AJA;;Mottagningspub gasquen;ZEXET;;437.60
+;;3101 Intäkter Starköl;;Mottagningspub gasquen;ZEXET;;843.60
+;;3120 Intäkter Övriga;;Mottagningspub gasquen;ZEXET;;0.29
+;;;;;;;
+A 88;2020-08-26;M SWEDEN K2297;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;502.00
+;;5610 Transportkostnader;;#1 Zittningen;ZEXET;502.00;
+;;;;;;;
+A 89;2020-07-07;Månadsavgifter sunfleet april;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;99.00
+;;5610 Transportkostnader;;;ZEXET;99.00;
+;;;;;;;
+A 90;2020-09-01;Överföring via internet mat pub och första zittningen till hugo;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;3783.42
+;;4000 Inköp av Mat;;Mottagningspub gasquen;ZEXET;1883.42;
+;;4000 Inköp av Mat;;#1 Zittningen;ZEXET;1900.00;
+;;;;;;;
+A 91;2020-09-21;Dep första zittningen, överföring till viktor;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;250.00
+;;5090 Övriga lokalkostnader;;#1 Zittningen;ZEXET;250.00;
+;;;;;;;
+A 92;2020-09-21;Hyra porslin k6;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;200.00
+;;6800 Övriga externa kostnader;;#1 Zittningen;ZEXET;200.00;
+;;;;;;;
+A 93;2020-09-21;Betalt dubbelt till charlie;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;445.00
+;;1610 Kortfristiga fordringar hos medlemmar;;;ZEXET;445.00;
+;;;;;;;
+A 94;2020-08-28;Kortköp med zexetkort av misstag;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;62.00
+;;1610 Kortfristiga fordringar hos medlemmar;;;ZEXET;62.00;
+;;;;;;;
+A 95;2020-09-01;Överföring då kortköp på fel kort, skulle dock varit 62 kr;Övrig insättning;;;;
+;;1935 Bank ZEXET;;;ZEXET;67.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;;ZEXET;;62.00
+;;3120 Intäkter Övriga;;;ZEXET;;5.00
+;;;;;;;
+A 96;2020-09-21;Bilhyra på privat arr som drog från zexetkortet;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;448.00
+;;1610 Kortfristiga fordringar hos medlemmar;;;ZEXET;448.00;
+;;;;;;;
+A 97;2020-09-21;Överföring Bilhyra då privat arr;Övrig insättning;;;;
+;;1935 Bank ZEXET;;;ZEXET;448.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;;ZEXET;;448.00
+;;;;;;;
+A 98;2020-09-21;Transportkostn första zittn och mottagninspub;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;300.00
+;;5610 Transportkostnader;;#1 Zittningen;ZEXET;150.00;
+;;5610 Transportkostnader;;Mottagningspub gasquen;ZEXET;150.00;
+;;;;;;;
+A 99;2020-09-21;Överföring Max pq;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;300.00
+;;6800 Övriga externa kostnader;;;ZEXET;300.00;
+;;;;;;;
+A 100;2020-08-21;Intäckter amazing race korv;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;Amazing Race;Zenith;977.00;
+;;3100 Intäkter Mat;;Amazing Race;Zenith;;977.00
+;;;;;;;
+A 101;2020-09-09;Intäkter från zenithsläpp nollspecial;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;Zenithsläpp Nollspecial;Zenith;1970.00;
+;;3100 Intäkter Mat;;Zenithsläpp Nollspecial;Zenith;;1970.00
+;;;;;;;
+A 102;2020-09-28;iZettle - Ztyret till kommittéer aug (Oscar Almér är Ztyret);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;57082.00
+;;1690 Fordran iZettle;;;Ztyret;57082.00;
+;;1690 Fordran iZettle;;;Zenith;;977.00
+;;1690 Fordran iZettle;;;ZEXET;;5135.00
+;;1690 Fordran iZettle;;;ZØK;;43285.00
+;;1690 Fordran iZettle;;;DaltonZ;;7685.00
+;;1932 Bank DaltonZ;;;DaltonZ;7685.00;
+;;1934 Bank Zenith;;;Zenith;977.00;
+;;1935 Bank ZEXET;;;ZEXET;5135.00;
+;;1937 Bank ZNollK;;;ZØK;43285.00;
+;;;;;;;
+A 103;2020-10-12;Äskning zenith (extra pengar) och ZIK (högtalare) (korrigerad med verifikation A323 av Ztyret Kassör, 2020-12-06);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Kommitéäskningar;Ztyret;;10000.00
+;;1934 Bank Zenith;;Kommitéäskningar;Zenith;7000.00;
+;;1936 Bank ZIK;;Kommitéäskningar;ZIK;3000.00;
+;;;;;;;
+A 104;2020-10-05;T-shirts aspning LP1;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;4793.00
+;;4009 Inköp Övriga Material;;Aspning;Ztyret;4793.00;
+;;;;;;;
+A 105;2020-10-02;iZettle - Inbetalning sept;Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;50258.24;
+;;6605 Licenser och avgifter för tjänst;;iZettle avgifter;Ztyret;896.76;
+;;1690 Fordran iZettle;;;Ztyret;;51155.00
+;;;;;;;
+A 106;2020-10-02;Ztyret kommittékläder;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;3388.00
+;;6701 Kostnader Arbetsklädsel;;Kommittékläder;Ztyret;3388.00;
+;;;;;;;
+A 107;2020-10-01;Hyra tält under mottagningen (corona);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;10500.00
+;;4031 Hyra Utrustning;;;Ztyret;10500.00;
+;;;;;;;
+A 108;2020-09-30;Arbetsmat Ztyretmöte 5 pers;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;450.00
+;;6640 Arbetsmat;;Ztyretmöten;Ztyret;227.05;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;222.95;
+;;;;;;;
+A 109;2020-09-30;Inköp av kaffe till Zaloonen;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Zaloonenfika;Ztyret;;630.60
+;;4000 Inköp av Mat;;Zaloonenfika;ZKK;630.60;
+;;;;;;;
+A 110;2020-09-29;Nya patroner till skrivare i ZtyreP;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;784.00
+;;6120 Inköp Förbrukningsmaterial;;;Ztyret;784.00;
+;;;;;;;
+A 111;2020-09-28;Internrepresentation Ztyret;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;2100.00
+;;6700 Kostnader Representation;;;Ztyret;2100.00;
+;;;;;;;
+A 112;2020-09-17;Inbetalning av medlemsskuld (Verifikation 20/21-A51);Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;20.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;;20.00
+;;;;;;;
+A 113;2020-07-31;Serveringstillstånd mottagning;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Serveringstillstånd;Ztyret;;900.00
+;;4020 Övriga kostnader arrangemang;;Serveringstillstånd;Ztyret;900.00;
+;;;;;;;
+A 114;2020-08-03;Serveringstillstånd mottagning;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Serveringstillstånd;Ztyret;;1000.00
+;;4020 Övriga kostnader arrangemang;;Serveringstillstånd;Ztyret;1000.00;
+;;;;;;;
+A 115;2020-10-06;Serveringstillstånd Zexet (tillägg, bet. för mycket A113 & A114);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Serveringstillstånd;Ztyret;;400.00
+;;4020 Övriga kostnader arrangemang;;Serveringstillstånd;Ztyret;400.00;
+;;;;;;;
+A 116;2020-09-21;Serveringstillstånd Zenith;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Serveringstillstånd;Ztyret;;700.00
+;;4020 Övriga kostnader arrangemang;;Serveringstillstånd;Ztyret;700.00;
+;;;;;;;
+A 117;2020-09-24;Lån ZMART;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;ZMART;Ztyret;;155000.00
+;;1942 Bank Överföring;;ZMART;ArgZ;155000.00;
+;;;;;;;
+A 118;2020-09-29;Lån ZNollk (förbetalning iZettle);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;41210.00
+;;1942 Bank Överföring;;;ZØK;41210.00;
+;;;;;;;
+A 119;2020-09-17;Arbetsmat bokföringskväll;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Bokföingskvällar;Ztyret;;90.00
+;;6640 Arbetsmat;;Bokföingskvällar;Ztyret;90.00;
+;;;;;;;
+A 120;2020-10-13;Serveringstillstånd DaltonZ;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Serveringstillstånd;Ztyret;;100.00
+;;4020 Övriga kostnader arrangemang;;Serveringstillstånd;Ztyret;100.00;
+;;;;;;;
+A 121;2020-10-14;Äskning programmet;Övrig insättning;;;;
+;;1930 Bank Ztyret;;Äskning programmet;Ztyret;49000.00;
+;;3920 Äskningar;;Äskning programmet;Ztyret;;49000.00
+;;;;;;;
+A 122;2020-10-14;Zaloonenfonden borttaget;Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;38196.94;
+;;1939 Zaloonenfonden;;;Ztyret;;38196.94
+;;;;;;;
+A 123;2020-10-19;Sektionsmöten;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Sektionsmöten;Ztyret;;9498.00
+;;6703 Kostnader Möten;;Sektionsmöten;Ztyret;9498.00;
+;;;;;;;
+A 124;2020-10-19;SMART anmälningsavgift;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;SMART;Ztyret;;1750.00
+;;4110 Kostnader Biljetter;;SMART;Ztyret;1750.00;
+;;;;;;;
+A 125;2020-10-22;ZIK Skadeväska (Med betalningspåminnelse);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Kommitéäskningar;Ztyret;;1259.00
+;;6120 Inköp Förbrukningsmaterial;;Kommitéäskningar;Ztyret;1259.00;
+;;;;;;;
+A 126;2020-11-02;Lunchföreläsning JämZ;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Lunchföreläsning;Ztyret;;5625.00
+;;4109 Inköp av Tjänst;;Lunchföreläsning;JämZ;5625.00;
+;;;;;;;
+A 127;2020-11-02;Valberedningen klädsel;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Kommittékläder;Ztyret;;6175.00
+;;6701 Kostnader Arbetsklädsel;;Kommittékläder;VB;3982.75;
+;;1610 Kortfristiga fordringar hos medlemmar;;;VB;2192.25;
+;;;;;;;
+A 128;2020-11-03;Inbetalning av medlemsfordran från (20/21-A127);Övrig insättning;;;;
+;;1930 Bank Ztyret;;Kommittékläder;Ztyret;2192.25;
+;;1610 Kortfristiga fordringar hos medlemmar;;Kommittékläder;VB;;2192.25
+;;;;;;;
+A 129;2020-09-03;Inbetalning av medlemsskuld (19/20 A116);Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;150.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;;150.00
+;;;;;;;
+A 130;2020-11-04;Arbetsmat revisorer;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;93.00
+;;6640 Arbetsmat;;;Revisorer;93.00;
+;;;;;;;
+A 131;2020-11-04;intrezzeklubben lotter o ireps;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;465.00
+;;6700 Kostnader Representation;;;IntrezzeK;265.20;
+;;6703 Kostnader Möten;;Sektionsmöten;IntrezzeK;199.80;
+;;;;;;;
+A 132;2020-11-04;Asp o pris till kubbturnering;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;776.87
+;;4020 Övriga kostnader arrangemang;;;JämZ;39.80;
+;;4000 Inköp av Mat;;Aspning;Ztyret;737.07;
+;;;;;;;
+A 133;2020-10-07;Inköp av vinst för ZZZ (korrigerad med verifikation A177 av Kassör ZIK, 2020-11-11);Inköp mot kvitto;;;;
+;;1936 Bank ZIK;;;;;200.00
+;;5400 Förbrukningsinventarier och förbrukningsmaterial (gruppkonto);;;;200.00;
+;;;;;;;
+A 134;2020-10-07;Inköp av vinst ZZZ (korrigerad med verifikation A179 av Kassör ZIK, 2020-11-11);Inköp mot kvitto;;;;
+;;1936 Bank ZIK;;;;;100.00
+;;5400 Förbrukningsinventarier och förbrukningsmaterial (gruppkonto);;;;100.00;
+;;;;;;;
+A 135;2020-09-21;Kontorsmaterial  (korrigerad med verifikation A173 av Kassör ZIK, 2020-11-11);Inköp mot kvitto;;;;
+;;1936 Bank ZIK;;;;;99.00
+;;5400 Förbrukningsinventarier och förbrukningsmaterial (gruppkonto);;;;99.00;
+;;;;;;;
+A 136;2020-09-21;Inköp mat internrepreentation (korrigerad med verifikation A175 av Kassör ZIK, 2020-11-11);Inköp mot kvitto;;;;
+;;1936 Bank ZIK;;;;;480.00
+;;6700 Kostnader Representation;;;;480.00;
+;;;;;;;
+A 137;2020-10-15;Uncategorized iZettle Import (korrigerad med verifikation A402 av Kassör Zenith, 2021-02-12);;;;;
+;;1690 Fordran iZettle;;Automatisk iZettle Import;Zenith;4598.00;
+;;3101 Intäkter Starköl;;Automatisk iZettle Import;Zenith;;705.00
+;;3120 Intäkter Övriga;;Automatisk iZettle Import;Zenith;;1870.00
+;;3102 Intäkter Vin (gammal Alkoholförsäljning);;Automatisk iZettle Import;Zenith;;250.00
+;;3103 Intäkter Sprit;;Automatisk iZettle Import;Zenith;;1205.00
+;;3100 Intäkter Mat;;Automatisk iZettle Import;Zenith;;318.00
+;;3104 Intäkter AJA;;Automatisk iZettle Import;Zenith;;250.00
+;;;;;;;
+A 138;2020-10-05;M SWEDEN Bil till Höztlan;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;LAN;DaltonZ;;451.00
+;;5610 Transportkostnader;;LAN;DaltonZ;451.00;
+;;;;;;;
+A 139;2020-10-05;M SWEDEN Bil till Höztlan;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;LAN;DaltonZ;;158.33
+;;5610 Transportkostnader;;LAN;DaltonZ;158.33;
+;;;;;;;
+A 140;2020-10-14;Inköp Mat Et-raj planneringsasp;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Aspning;DaltonZ;;427.92
+;;4000 Inköp av Mat;;Aspning;DaltonZ;367.92;
+;;6640 Arbetsmat;;Aspning;DaltonZ;60.00;
+;;;;;;;
+A 141;2020-08-25;Läsk till drinkar Zaloonenöppning;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Zaloonenöppningen;DaltonZ;;45.00
+;;4000 Inköp av Mat;;Zaloonenöppningen;DaltonZ;45.00;
+;;;;;;;
+A 142;2020-08-31;Komplement mat till Daltonzzittning;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Zittning;DaltonZ;;83.35
+;;4000 Inköp av Mat;;DaltonZ Zittning;DaltonZ;83.35;
+;;;;;;;
+A 143;2020-08-31;Inköp Arbetsmat Daltonz Zittning;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Zittning;DaltonZ;;355.00
+;;6640 Arbetsmat;;DaltonZ Zittning;DaltonZ;355.00;
+;;;;;;;
+A 144;2020-08-31;Komplettering Mat Daltonz Zittning ;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Zittning;DaltonZ;;43.40
+;;4000 Inköp av Mat;;DaltonZ Zittning;DaltonZ;43.40;
+;;;;;;;
+A 145;2020-08-25;Systembolaget Inköp ZaloonenÖppning;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Zaloonenöppningen;DaltonZ;;3916.50
+;;4001 Inköp av Starköl;;Zaloonenöppningen;DaltonZ;1580.00;
+;;4003 Inköp av Sprit;;Zaloonenöppningen;DaltonZ;738.00;
+;;4004 Inköp av AJA;;Zaloonenöppningen;DaltonZ;1412.00;
+;;4000 Inköp av Mat;;Zaloonenöppningen;DaltonZ;186.50;
+;;;;;;;
+A 146;2020-09-07;Systembolaget retur efter ZaloonenÖppning;Övrig insättning;;;;
+;;1932 Bank DaltonZ;;Zaloonenöppningen;DaltonZ;616.60;
+;;4000 Inköp av Mat;;Zaloonenöppningen;DaltonZ;;136.50
+;;4001 Inköp av Starköl;;Zaloonenöppningen;DaltonZ;;42.00
+;;4004 Inköp av AJA;;Zaloonenöppningen;DaltonZ;;438.10
+;;;;;;;
+A 147;2020-08-28;Inköp Häfvdryck Introhäfv 2;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Introhäfv;DaltonZ;;676.77
+;;4000 Inköp av Mat;;Introhäfv;DaltonZ;470.40;
+;;6120 Inköp Förbrukningsmaterial;;Introhäfv;DaltonZ;206.37;
+;;;;;;;
+A 148;2020-08-25;Inköp Häfvdryck Introhäfv 1;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Introhäfv;DaltonZ;;1592.77
+;;4000 Inköp av Mat;;Introhäfv;DaltonZ;1180.03;
+;;6120 Inköp Förbrukningsmaterial;;Introhäfv;DaltonZ;412.74;
+;;;;;;;
+A 149;2020-08-25;Inköp Mat ZaloonenÖppning;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Zaloonenöppningen;DaltonZ;;2538.22
+;;4000 Inköp av Mat;;Zaloonenöppningen;DaltonZ;2096.74;
+;;6120 Inköp Förbrukningsmaterial;;Zaloonenöppningen;DaltonZ;191.48;
+;;6640 Arbetsmat;;Zaloonenöppningen;DaltonZ;250.00;
+;;;;;;;
+A 150;2020-08-31;Inköp Mat Daltonz Zittning;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Zittning;DaltonZ;;2735.39
+;;4000 Inköp av Mat;;DaltonZ Zittning;DaltonZ;2473.89;
+;;6120 Inköp Förbrukningsmaterial;;DaltonZ Zittning;DaltonZ;261.50;
+;;;;;;;
+A 151;2020-11-05;Tillbaka från dubbel utbetalning till medlem A1099;Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;792.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;;792.00
+;;;;;;;
+A 152;2020-11-02;Domänavgift one.com;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;1358.75
+;;6605 Licenser och avgifter för tjänst;;;Ztyret;1358.75;
+;;;;;;;
+A 153;2020-11-03;iZettle - Inbetalning  okt (Oscar Almér är Ztyret);Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;9096.44;
+;;6605 Licenser och avgifter för tjänst;;iZettle avgifter;Ztyret;162.56;
+;;1690 Fordran iZettle;;;Ztyret;;9259.00
+;;;;;;;
+A 154;2020-11-04;ZKK fika;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Zaloonenfika;ZKK;;260.90
+;;4000 Inköp av Mat;;Zaloonenfika;ZKK;260.90;
+;;;;;;;
+A 155;2020-11-05;Limpistol till medaljer & ny häftapparat;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Kontorsmaterial;Ztyret;;208.00
+;;6120 Inköp Förbrukningsmaterial;;;Ztyret;208.00;
+;;;;;;;
+A 156;2020-10-19;Kaffe till Zaloonen;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;718.20
+;;4000 Inköp av Mat;;Zaloonenfika;Ztyret;718.20;
+;;;;;;;
+A 157;2020-10-19; Justering Startbelopp ZÅG 1 av 2;Övrig insättning;;;;
+;;1930 Bank Ztyret;;Startbelopp;Ztyret;4000.00;
+;;1942 Bank Överföring;;Startbelopp;Ztyret;;4000.00
+;;;;;;;
+A 158;2020-11-05;Fel kortbetalning;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;109.30
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;109.30;
+;;;;;;;
+A 159;2020-09-30;Betalt för samma kvitto två gånger till Charlie, återbetalning till zexet;Övrig insättning;;;;
+;;1935 Bank ZEXET;;;ZEXET;445.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;;ZEXET;;445.00
+;;;;;;;
+A 160;2020-10-01;Kortköp/uttag SNABBGROSS SISJÖN K2297;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;Onsdagslunch;ZEXET;;968.61
+;;4000 Inköp av Mat;;Onsdagslunch;ZEXET;968.61;
+;;;;;;;
+A 161;2020-10-05;ELGIGANTEN AB K7638;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;2990.00
+;;6110 Inköp Utrustning;;;ZIK;2990.00;
+;;;;;;;
+A 162;2020-10-01;Internreps;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;661.60
+;;6700 Kostnader Representation;;;ZEXET;661.60;
+;;;;;;;
+A 163;2020-10-09;Inköp mat till azp;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;Aspning;ZEXET;;668.10
+;;4000 Inköp av Mat;;Aspning;ZEXET;668.10;
+;;;;;;;
+A 164;2020-11-11;Justering diff verifikation: Mellan A161 och A169;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;10.00
+;;1942 Bank Överföring;;;Ztyret;10.00;
+;;;;;;;
+A 165;2020-10-09;Kortköp/uttag COOP LANDALA K2297;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;Aspning;ZEXET;;696.40
+;;6120 Inköp Förbrukningsmaterial;;Aspning;ZEXET;422.75;
+;;4000 Inköp av Mat;;Aspning;ZEXET;273.65;
+;;;;;;;
+A 166;2020-10-19;Inköp av glas till asp;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;Aspning;ZEXET;;127.80
+;;6120 Inköp Förbrukningsmaterial;;Aspning;ZEXET;127.80;
+;;;;;;;
+A 167;2020-10-14;Inköp av sportmaterial, koner;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;245.02
+;;6110 Inköp Utrustning;;;ZIK;245.02;
+;;;;;;;
+A 168;2020-10-02;Bg-bet. via internet lob KG;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;#1 Zittningen;ZEXET;;1300.00
+;;4031 Hyra Utrustning;;#1 Zittningen;ZEXET;1300.00;
+;;;;;;;
+A 169;2020-10-12;Äskning högtalar;Övrig insättning;;;;
+;;1936 Bank ZIK;;;ZIK;3000.00;
+;;1942 Bank Överföring;;;ZIK;;3000.00
+;;;;;;;
+A 170;2020-09-08;Inköp Utrustning Badmintonracket;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;2985.00
+;;6110 Inköp Utrustning;;;ZIK;2985.00;
+;;;;;;;
+A 171;2020-09-10;Korrigering av ver.nr. A78, Inköp av mat från Axfood till onsdagslunchen (av Kassör ZIK, 2020-11-11);Inköp mot kvitto;;;;
+;;1936 Bank ZIK;;;;524.05;
+;;5400 Förbrukningsinventarier och förbrukningsmaterial (gruppkonto);;;;;524.05
+;;;;;;;
+A 172;2020-09-10;Inköp av mat från Axfood till onsdagslunchen;Manuell verifikation;;;;
+;;1936 Bank ZIK;;;ZIK;;524.05
+;;4000 Inköp av Mat;;;ZIK;524.05;
+;;;;;;;
+A 173;2020-09-21;Korrigering av ver.nr. A135, Kontorsmaterial  (av Kassör ZIK, 2020-11-11);Inköp mot kvitto;;;;
+;;1936 Bank ZIK;;;;99.00;
+;;5400 Förbrukningsinventarier och förbrukningsmaterial (gruppkonto);;;;;99.00
+;;;;;;;
+A 174;2020-09-21;Kontorsmaterial;Manuell verifikation;;;;
+;;1936 Bank ZIK;;;ZIK;;99.00
+;;6120 Inköp Förbrukningsmaterial;;;ZIK;99.00;
+;;;;;;;
+A 175;2020-09-21;Korrigering av ver.nr. A136, Inköp mat internrepreentation (av Kassör ZIK, 2020-11-11);Inköp mot kvitto;;;;
+;;1936 Bank ZIK;;;;480.00;
+;;6700 Kostnader Representation;;;;;480.00
+;;;;;;;
+A 176;2020-09-21;Inköp av mat internrepresentation;Manuell verifikation;;;;
+;;1936 Bank ZIK;;;ZIK;;480.00
+;;6700 Kostnader Representation;;;ZIK;480.00;
+;;;;;;;
+A 177;2020-10-07;Korrigering av ver.nr. A133, Inköp av vinst för ZZZ (av Kassör ZIK, 2020-11-11);Inköp mot kvitto;;;;
+;;1936 Bank ZIK;;;;200.00;
+;;5400 Förbrukningsinventarier och förbrukningsmaterial (gruppkonto);;;;;200.00
+;;;;;;;
+A 178;2020-10-07;Inköp av pris för ZZZ;Manuell verifikation;;;;
+;;1936 Bank ZIK;;;ZIK;;200.00
+;;6120 Inköp Förbrukningsmaterial;;;ZIK;200.00;
+;;;;;;;
+A 179;2020-10-07;Korrigering av ver.nr. A134, Inköp av vinst ZZZ (av Kassör ZIK, 2020-11-11);Inköp mot kvitto;;;;
+;;1936 Bank ZIK;;;;100.00;
+;;5400 Förbrukningsinventarier och förbrukningsmaterial (gruppkonto);;;;;100.00
+;;;;;;;
+A 180;2020-10-07;Inköp av andrapris för ZZZ;Manuell verifikation;;;;
+;;1936 Bank ZIK;;;ZIK;;100.00
+;;6120 Inköp Förbrukningsmaterial;;;ZIK;100.00;
+;;;;;;;
+A 181;2020-10-09;Graduateland kostnader;Övrigt uttag;;;;
+;;1931 Bank ArgZ;;ZMART;ArgZ;;105000.00
+;;4109 Inköp av Tjänst;;ZMART;ArgZ;105000.00;
+;;;;;;;
+A 182;2020-09-24;Lån ZMART;Övrig insättning;;;;
+;;1931 Bank ArgZ;;ZMART;ArgZ;155000.00;
+;;1942 Bank Överföring;;ZMART;ArgZ;;155000.00
+;;;;;;;
+A 183;2020-10-09;Bokningsssystem Zmart kostnader;Övrigt uttag;;;;
+;;1931 Bank ArgZ;;ZMART;ArgZ;;20000.00
+;;4109 Inköp av Tjänst;;ZMART;ArgZ;20000.00;
+;;;;;;;
+A 184;2020-10-05;Internrepresentation frisbeegolf;Övrigt uttag;;;;
+;;1931 Bank ArgZ;;;ArgZ;;200.00
+;;6700 Kostnader Representation;;;ArgZ;200.00;
+;;;;;;;
+A 185;2020-09-22;Kontorsmaterial ZMART;Övrigt uttag;;;;
+;;1931 Bank ArgZ;;ZMART;ArgZ;;83.80
+;;6120 Inköp Förbrukningsmaterial;;ZMART;ArgZ;83.80;
+;;;;;;;
+A 186;2020-10-01;Kortköp/uttag SNABBGROSS SISJÖN K2297;Övrig insättning;;;;
+;;1935 Bank ZEXET;;Onsdagslunch;ZEXET;172.48;
+;;4000 Inköp av Mat;;Onsdagslunch;ZEXET;;172.48
+;;;;;;;
+A 187;2020-11-11;iZettle - #1 sittningen, intäkter övriga avser alkoholfri dryck;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;#1 Zittningen;ZEXET;5135.00;
+;;3102 Intäkter Vin (gammal Alkoholförsäljning);;#1 Zittningen;ZEXET;;3150.00
+;;3103 Intäkter Sprit;;#1 Zittningen;ZEXET;;1700.00
+;;3120 Intäkter Övriga;;#1 Zittningen;ZEXET;;285.00
+;;;;;;;
+A 188;2020-10-15;Inköp Mat Onsdagslunch [2020-10-14];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Onsdagslunch;DaltonZ;;1313.97
+;;4000 Inköp av Mat;;Onsdagslunch;DaltonZ;1151.97;
+;;6120 Inköp Förbrukningsmaterial;;Onsdagslunch;DaltonZ;12.00;
+;;6640 Arbetsmat;;Onsdagslunch;DaltonZ;150.00;
+;;;;;;;
+A 189;2020-11-09;Inköp Presentkasse till pris Et-raj lp1 [2020-11-06];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;ET-Raj;DaltonZ;;39.00
+;;6120 Inköp Förbrukningsmaterial;;ET-Raj;DaltonZ;39.00;
+;;;;;;;
+A 190;2020-11-09;Inköp pris till Et-raj [2020-11-06];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;ET-Raj;DaltonZ;;63.20
+;;4000 Inköp av Mat;;ET-Raj;DaltonZ;63.20;
+;;;;;;;
+A 191;2020-11-09;Inköp pris Et-raj [2020-11-06];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;ET-Raj;DaltonZ;;295.10
+;;6120 Inköp Förbrukningsmaterial;;ET-Raj;DaltonZ;3.50;
+;;4000 Inköp av Mat;;ET-Raj;DaltonZ;291.60;
+;;;;;;;
+A 192;2020-10-05;Inköp Mat Höztlan [2020-10-02];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;LAN;DaltonZ;;1566.58
+;;4000 Inköp av Mat;;LAN;DaltonZ;1316.58;
+;;6640 Arbetsmat;;LAN;DaltonZ;250.00;
+;;;;;;;
+A 193;2020-08-24;Intäkter ZaloonenÖppning Daltonz ;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;Zaloonenöppningen;DaltonZ;6920.00;
+;;3100 Intäkter Mat;;Zaloonenöppningen;DaltonZ;;2850.00
+;;3101 Intäkter Starköl;;Zaloonenöppningen;DaltonZ;;2505.00
+;;3104 Intäkter AJA;;Zaloonenöppningen;DaltonZ;;875.00
+;;3103 Intäkter Sprit;;Zaloonenöppningen;DaltonZ;;690.00
+;;;;;;;
+A 194;2020-08-30;Intäkter Daltonzkraft;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;DaltonZKraft;DaltonZ;765.00;
+;;3100 Intäkter Mat;;DaltonZKraft;DaltonZ;;765.00
+;;;;;;;
+A 195;2020-08-31;Försäljning Daltonzkraft perioden 24-30Aug;Manuell verifikation;;;;
+;;1450 Lager;;DaltonZKraft;DaltonZ;;810.00
+;;4000 Inköp av Mat;;DaltonZKraft;DaltonZ;810.00;
+;;;;;;;
+A 196;2020-09-30;Bilhyra retur Systembolaget [2020-09-05];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Zaloonenöppningen;DaltonZ;;124.00
+;;5610 Transportkostnader;;Zaloonenöppningen;DaltonZ;124.00;
+;;;;;;;
+A 197;2020-09-30;Bilhyra VårLan 2 [2020-05-10];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;LAN;DaltonZ;;134.00
+;;2910 Upplupna kostnader;;LAN;DaltonZ;134.00;
+;;;;;;;
+A 198;2020-09-30;Bilhyra Introhäfv [2020-08-27];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Introhäfv;DaltonZ;;208.17
+;;5610 Transportkostnader;;Introhäfv;DaltonZ;208.17;
+;;;;;;;
+A 199;2020-09-30;Bilhyra Inköp Daltonz Zittning [2020-08-28];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Zittning;DaltonZ;;248.00
+;;5610 Transportkostnader;;DaltonZ Zittning;DaltonZ;248.00;
+;;;;;;;
+A 200;2020-09-30;Bilhyra Inköp Introhäfv + ZaloonenÖppning [2020-08-24]];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Zaloonenöppningen;DaltonZ;;356.00
+;;5610 Transportkostnader;;Zaloonenöppningen;DaltonZ;356.00;
+;;;;;;;
+A 201;2020-09-30;Bilhyra Inköp VårLan [2020-05-08];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;LAN;DaltonZ;;411.50
+;;2910 Upplupna kostnader;;LAN;DaltonZ;411.50;
+;;;;;;;
+A 202;2020-11-10;Påfyllning PQ tjallare;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;;DaltonZ;;375.00
+;;6120 Inköp Förbrukningsmaterial;;;DaltonZ;375.00;
+;;;;;;;
+A 203;2020-11-10;Internrepresentation Upzone [2020-05-24];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;;DaltonZ;;1200.00
+;;2910 Upplupna kostnader;;;DaltonZ;1200.00;
+;;;;;;;
+A 204;2020-11-11;Komplement inköp Grillmys m ZIK [2020-05-22];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;;DaltonZ;;420.47
+;;2910 Upplupna kostnader;;;DaltonZ;420.47;
+;;;;;;;
+A 205;2020-11-13;Internrepresentation mat Max[2020-05-24];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;;DaltonZ;;368.00
+;;2910 Upplupna kostnader;;;DaltonZ;368.00;
+;;;;;;;
+A 206;2020-09-30;Hyra bil inför aspning;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;Aspning;ZEXET;;282.00
+;;5610 Transportkostnader;;Aspning;ZEXET;282.00;
+;;;;;;;
+A 207;2020-09-21;Internrepresentation aktivitet padel, rackethyra;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;160.00
+;;6700 Kostnader Representation;;;ZIK;160.00;
+;;;;;;;
+A 208;2020-11-11;Utlägg internrepresentation, aktivitet, padel, banhyra;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;225.00
+;;1942 Bank Överföring;;;;225.00;
+;;;;;;;
+A 209;2020-11-11;iZettle sep utbe;Övrig insättning;;;;
+;;1936 Bank ZIK;;;ZIK;1025.00;
+;;3100 Intäkter Mat;;;ZIK;;1025.00
+;;;;;;;
+A 210;2020-09-03;IKEA BECKEBOL K1338;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;497.00
+;;6110 Inköp Utrustning;;;ZÅG;497.00;
+;;;;;;;
+A 211;2020-09-29;inköp amazingrace;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Amazing Race;Zenith;;880.20
+;;4000 Inköp av Mat;;Amazing Race;Zenith;880.20;
+;;;;;;;
+A 212;2020-10-15;Skaft till golvskrapor för Zaloonen;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;99.80
+;;6110 Inköp Utrustning;;;ZÅG;99.80;
+;;;;;;;
+A 213;2020-10-15;Inköp av golvskrapor för Zaloonen;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;79.80
+;;6110 Inköp Utrustning;;;ZÅG;79.80;
+;;;;;;;
+A 214;2020-09-29;inköp Nollspecial Zenithsläpp ;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Zenithsläpp Nollspecial;Zenith;;172.35
+;;4000 Inköp av Mat;;Zenithsläpp Nollspecial;Zenith;172.35;
+;;;;;;;
+A 215;2020-09-29;inköp Mat Nollspecial Zenithsläpp ;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Zenithsläpp Nollspecial;Zenith;;109.85
+;;4000 Inköp av Mat;;Zenithsläpp Nollspecial;Zenith;109.85;
+;;;;;;;
+A 216;2020-10-14;Smörgåsgrillar/våffeljärn till Zaloonen;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;1698.00
+;;6110 Inköp Utrustning;;;ZÅG;1698.00;
+;;;;;;;
+A 217;2020-10-12;Toalettborstar till Zaloonen;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;74.80
+;;6120 Inköp Förbrukningsmaterial;;;ZÅG;74.80;
+;;;;;;;
+A 218;2020-09-29;inköp mat Nollspecial Zenithsläpp;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Zenithsläpp Nollspecial;Zenith;;230.85
+;;4000 Inköp av Mat;;Zenithsläpp Nollspecial;Zenith;230.85;
+;;;;;;;
+A 219;2020-10-12;Inlp av mandolin till Zaloonen;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;169.90
+;;6110 Inköp Utrustning;;;ZÅG;169.90;
+;;;;;;;
+A 220;2020-10-05;Allrengöringsmedel för Zaloonen;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;24.90
+;;6120 Inköp Förbrukningsmaterial;;;ZÅG;24.90;
+;;;;;;;
+A 221;2020-09-28;Sprayflaskor för diskmedel till Zaloonen;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;65.80
+;;6110 Inköp Utrustning;;;ZÅG;65.80;
+;;;;;;;
+A 222;2020-09-29;inköp mat Nollspecial Zenithsläpp ;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Zenithsläpp Nollspecial;Zenith;;83.00
+;;4000 Inköp av Mat;;Zenithsläpp Nollspecial;Zenith;83.00;
+;;;;;;;
+A 223;2020-09-24;Mat till onsdagslunchen 23/9-20;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;224.24
+;;4000 Inköp av Mat;;;ZÅG;224.24;
+;;;;;;;
+A 224;2020-10-16;inköp azp azpzläpp;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;;Zenith;;139.37
+;;4000 Inköp av Mat;;;Zenith;139.37;
+;;;;;;;
+A 225;2020-09-24;Onsdagslunch 23/9-20;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;751.14
+;;4000 Inköp av Mat;;;ZÅG;751.14;
+;;;;;;;
+A 226;2020-09-22;Gultejp;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;1100.00
+;;6120 Inköp Förbrukningsmaterial;;;ZÅG;1100.00;
+;;;;;;;
+A 227;2020-10-14;Inköp mat zläppLp1;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Zenithzläpp LP1;Zenith;;2308.12
+;;4000 Inköp av Mat;;Zenithzläpp LP1;Zenith;2308.12;
+;;;;;;;
+A 228;2020-09-21;Sopkvast och en skyffel till Zaloonen;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;139.90
+;;6110 Inköp Utrustning;;;ZÅG;139.90;
+;;;;;;;
+A 229;2020-11-20;inköp släpp Lp1;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Zenithzläpp LP1;Zenith;;131.50
+;;4000 Inköp av Mat;;Zenithzläpp LP1;Zenith;131.50;
+;;;;;;;
+A 230;2020-10-19;Justering;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;4000.00
+;;1942 Bank Överföring;;;Ztyret;4000.00;
+;;;;;;;
+A 231;2020-11-20;inköp mat azp;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;;Zenith;;312.65
+;;4000 Inköp av Mat;;;Zenith;312.65;
+;;;;;;;
+A 232;2020-11-20;inköp mat azp testar;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;;Zenith;;70.13
+;;4000 Inköp av Mat;;;Zenith;70.13;
+;;;;;;;
+A 233;2020-09-14;Redskapskrok och spik;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;150.00
+;;1942 Bank Överföring;;;;150.00;
+;;;;;;;
+A 234;2020-10-15;arbetsmat smörgåstårtebak;Övrigt uttag;;;;
+;;1934 Bank Zenith;;;Zenith;;290.00
+;;6640 Arbetsmat;;;Zenith;290.00;
+;;;;;;;
+A 235;2020-09-14;Sopsäckar och pärmregister;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;83.00
+;;1942 Bank Överföring;;;;83.00;
+;;;;;;;
+A 236;2020-10-15;inköp mat släppLP1 zenith;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Zenithzläpp LP1;Zenith;;148.20
+;;4000 Inköp av Mat;;Zenithzläpp LP1;Zenith;148.20;
+;;;;;;;
+A 237;2020-09-21;Batterier inköpta som depp för Zenith;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;27.95
+;;1942 Bank Överföring;;;;27.95;
+;;;;;;;
+A 238;2020-11-20;inköp pingisbollar azp;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;;Zenith;;49.90
+;;6110 Inköp Utrustning;;;Zenith;49.90;
+;;;;;;;
+A 239;2020-10-15;arbetsmat smörgåstårtebak;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;;Zenith;;61.60
+;;6640 Arbetsmat;;;Zenith;61.60;
+;;;;;;;
+A 240;2020-11-20;inköp mat zläppLP1 Zenith ;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Zenithzläpp LP1;Zenith;;58.50
+;;4000 Inköp av Mat;;Zenithzläpp LP1;Zenith;58.50;
+;;;;;;;
+A 241;2020-11-20;inköp azp testar;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;;Zenith;;35.80
+;;4000 Inköp av Mat;;;Zenith;35.80;
+;;;;;;;
+A 242;2020-11-11;Swish Zenith Smörgåstårta;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;350.00
+;;1942 Bank Överföring;;;Zenith;350.00;
+;;;;;;;
+A 243;2020-11-11;iZettle utbetalning till kommittéer sep (Råkade bli borttagen av A269 av Kassör ZÅG, 2020-11-22);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;9595.00
+;;1690 Fordran iZettle;;;Ztyret;9595.00;
+;;1941 Bank ZÅG;;;ZÅG;1000.00;
+;;1690 Fordran iZettle;;;ZÅG;;1000.00
+;;1935 Bank ZEXET;;;ZEXET;1475.00;
+;;1690 Fordran iZettle;;;ZEXET;;1475.00
+;;1934 Bank Zenith;;;Zenith;2790.00;
+;;1690 Fordran iZettle;;;Zenith;;2790.00
+;;1932 Bank DaltonZ;;;DaltonZ;3305.00;
+;;1690 Fordran iZettle;;;DaltonZ;;3305.00
+;;1936 Bank ZIK;;;ZIK;1025.00;
+;;1690 Fordran iZettle;;;ZIK;;1025.00
+;;;;;;;
+A 244;2020-11-11;iZettle utbetalning till kommittéer okt;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;9234.00
+;;1690 Fordran iZettle;;;Ztyret;9234.00;
+;;1932 Bank DaltonZ;;;DaltonZ;3511.00;
+;;1690 Fordran iZettle;;;DaltonZ;;3511.00
+;;1934 Bank Zenith;;;Zenith;4598.00;
+;;1690 Fordran iZettle;;;Zenith;;4598.00
+;;1937 Bank ZNollK;;;ZØK;1125.00;
+;;1690 Fordran iZettle;;;ZØK;;1125.00
+;;;;;;;
+A 245;2020-11-11;Diff äskning: Mellan A161 och A169;Övrig insättning;;;;
+;;1930 Bank Ztyret;;Kommitéäskningar;Ztyret;10.00;
+;;1942 Bank Överföring;;Kommitéäskningar;Ztyret;;10.00
+;;;;;;;
+A 246;2020-11-11;Swish inbet. sep-okt;Övrig insättning;;;;
+;;1930 Bank Ztyret;;Zaloonenfika;Ztyret;2362.00;
+;;3100 Intäkter Mat;;Zaloonenfika;Ztyret;;2362.00
+;;;;;;;
+A 247;2020-11-11;ZKK Swish utbetalning;Övrig insättning;;;;
+;;1930 Bank Ztyret;;Zaloonenfika;Ztyret;350.00;
+;;1691 Övriga fordringar;;Zaloonenfika;Ztyret;;350.00
+;;;;;;;
+A 248;2020-11-11;Tillbaka skuld för A158 & A108;Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;332.25;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;;332.25
+;;;;;;;
+A 249;2020-11-19; Justering Startbelopp ZÅG 2 av 2;Övrig insättning;;;;
+;;1930 Bank Ztyret;;Startbelopp;Ztyret;4255.00;
+;;1942 Bank Överföring;;Startbelopp;Ztyret;;4255.00
+;;;;;;;
+A 250;2020-09-22;Internreps burgare;Övrigt uttag;;;;
+;;1931 Bank ArgZ;;;ArgZ;;500.00
+;;6700 Kostnader Representation;;;ArgZ;500.00;
+;;;;;;;
+A 251;2020-09-30;Blomma Tetra-Pak;Övrigt uttag;;;;
+;;1931 Bank ArgZ;;Lunchföreläsning;ArgZ;;623.00
+;;4020 Övriga kostnader arrangemang;;Lunchföreläsning;ArgZ;623.00;
+;;;;;;;
+A 252;2020-09-28;Mat Äventyr;Övrigt uttag;;;;
+;;1931 Bank ArgZ;;;ArgZ;;1052.23
+;;4000 Inköp av Mat;;;ArgZ;1052.23;
+;;;;;;;
+A 253;2020-08-27;Försäljning tygmärken;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;Z-Accessoarer;Ztyret;50.00;
+;;1450 Lager;;Z-Accessoarer;Ztyret;;50.00
+;;;;;;;
+A 254;2020-09-02;Försäljning onsdagslunch;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;Onsdagslunch;Ztyret;600.00;
+;;3100 Intäkter Mat;;Onsdagslunch;Ztyret;;600.00
+;;;;;;;
+A 255;2020-11-13;Fika på ordföranderåd;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Ordföranderåd;Ztyret;;60.00
+;;6703 Kostnader Möten;;Ordföranderåd;Ztyret;60.00;
+;;;;;;;
+A 256;2020-10-14;DaltonZ onsdagslunch (fel konto inloggad i iZettle);Manuell verifikation;;;;
+;;1690 Fordran iZettle;;Onsdagslunch;Ztyret;25.00;
+;;3100 Intäkter Mat;;Onsdagslunch;Ztyret;;25.00
+;;;;;;;
+A 257;2020-10-02;iZettle utbetalning till ZNollk samt ZNollk betalar tillbaka lån till Ztyret (se A118 och A285);Manuell verifikation;;;;
+;;1930 Bank Ztyret;;;Ztyret;;41210.00
+;;1690 Fordran iZettle;;;Ztyret;41210.00;
+;;1690 Fordran iZettle;;;ZØK;;41210.00
+;;1937 Bank ZNollK;;;ZØK;41210.00;
+;;1937 Bank ZNollK;;;ZØK;;41210.00
+;;1942 Bank Överföring;;;Ztyret;41210.00;
+;;1942 Bank Överföring;;;Ztyret;;41210.00
+;;1930 Bank Ztyret;;;Ztyret;41210.00;
+;;;;;;;
+A 258;2020-11-20;inköp sprit släpp Lp1;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Zenithzläpp LP1;Zenith;;877.00
+;;4003 Inköp av Sprit;;Zenithzläpp LP1;Zenith;877.00;
+;;;;;;;
+A 259;2020-11-11;swish Zenith Smörgåstårta (korrigerad med verifikation A404 av Kassör Zenith, 2021-02-12);Övrig insättning;;;;
+;;1934 Bank Zenith;;Zenithzläpp LP1;Zenith;350.00;
+;;3100 Intäkter Mat;;Zenithzläpp LP1;Zenith;;350.00
+;;;;;;;
+A 260;2020-10-16;inköp alkohol LP1 zläpp ;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Zenithzläpp LP1;Zenith;;4215.20
+;;4000 Inköp av Mat;;Zenithzläpp LP1;Zenith;819.40;
+;;4004 Inköp av AJA;;Zenithzläpp LP1;Zenith;1614.80;
+;;4001 Inköp av Starköl;;Zenithzläpp LP1;Zenith;1120.00;
+;;4002 Inköp av Vin;;Zenithzläpp LP1;Zenith;661.00;
+;;;;;;;
+A 261;2020-10-27;retur alkohol lp1 zläpp;Övrig insättning;;;;
+;;1934 Bank Zenith;;Zenithzläpp LP1;Zenith;3090.90;
+;;4004 Inköp av AJA;;Zenithzläpp LP1;Zenith;;1397.80
+;;4000 Inköp av Mat;;Zenithzläpp LP1;Zenith;;748.80
+;;4001 Inköp av Starköl;;Zenithzläpp LP1;Zenith;;566.30
+;;4002 Inköp av Vin;;Zenithzläpp LP1;Zenith;;378.00
+;;;;;;;
+A 262;2020-11-23;inköp mat släpp Lp1;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Zenithzläpp LP1;Zenith;;79.90
+;;4000 Inköp av Mat;;Zenithzläpp LP1;Zenith;79.90;
+;;;;;;;
+A 263;2020-11-11;intäckter mat lp1 zläpp (korrigerad med verifikation A264 av Kassör Zenith, 2020-11-22);Övrig insättning;;;;
+;;1934 Bank Zenith;;Zenithzläpp LP1;Zenith;4598.00;
+;;3100 Intäkter Mat;;Zenithzläpp LP1;Zenith;;4598.00
+;;;;;;;
+A 264;2020-11-11;Korrigering av ver.nr. A263, intäckter mat lp1 zläpp;Övrig insättning;;;;
+;;1934 Bank Zenith;;Zenithzläpp LP1;Zenith;;4598.00
+;;3100 Intäkter Mat;;Zenithzläpp LP1;Zenith;4598.00;
+;;;;;;;
+A 265;2020-11-19; Justering av startbelopp;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;4255.00
+;;1942 Bank Överföring;;;Ztyret;4255.00;
+;;;;;;;
+A 266;2020-11-04;Deposition tagen efter trasig klocka;Övrig insättning;;;;
+;;1941 Bank ZÅG;;;ZÅG;500.00;
+;;3120 Intäkter Övriga;;;;;500.00
+;;;;;;;
+A 267;2020-09-03;Kommitétröjor ;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;2170.00
+;;6701 Kostnader Arbetsklädsel;;;ZÅG;2170.00;
+;;;;;;;
+A 268;2020-09-21;Deposition tagen för trasig sopborste, kommer justeras;Övrig insättning;;;;
+;;1941 Bank ZÅG;;;ZÅG;500.00;
+;;3120 Intäkter Övriga;;;;;500.00
+;;;;;;;
+A 269;2020-11-11;ZÅG tar bort ver.nr. A243 av misstag (Försök av korrigering med A277 av Kassör Ztyret, 2020-11-22);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;9595.00;
+;;1690 Fordran iZettle;;;Ztyret;;9595.00
+;;1941 Bank ZÅG;;;ZÅG;;1000.00
+;;1690 Fordran iZettle;;;ZÅG;1000.00;
+;;1935 Bank ZEXET;;;ZEXET;;1475.00
+;;1690 Fordran iZettle;;;ZEXET;1475.00;
+;;1934 Bank Zenith;;;Zenith;;2790.00
+;;1690 Fordran iZettle;;;Zenith;2790.00;
+;;1932 Bank DaltonZ;;;DaltonZ;;3305.00
+;;1690 Fordran iZettle;;;DaltonZ;3305.00;
+;;1936 Bank ZIK;;;ZIK;;1025.00
+;;1690 Fordran iZettle;;;ZIK;1025.00;
+;;;;;;;
+A 270;2020-11-11;iZettle sep utbe (korrigerad med verifikation A272 av Kassör ZÅG, 2020-11-22);Övrig insättning;;;;
+;;1941 Bank ZÅG;;;ZÅG;1000.00;
+;;3100 Intäkter Mat;;;ZÅG;;1000.00
+;;;;;;;
+A 271;2020-10-15;Intäkter alkohol lp1 zenithsläpp;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;Zenithzläpp LP1;Zenith;4598.00;
+;;3104 Intäkter AJA;;Zenithzläpp LP1;Zenith;;250.00
+;;3100 Intäkter Mat;;Zenithzläpp LP1;Zenith;;1800.00
+;;3100 Intäkter Mat;;Zenithzläpp LP1;Zenith;;318.00
+;;3101 Intäkter Starköl;;Zenithzläpp LP1;Zenith;;775.00
+;;3102 Intäkter Vin (gammal Alkoholförsäljning);;Zenithzläpp LP1;Zenith;;250.00
+;;3103 Intäkter Sprit;;Zenithzläpp LP1;Zenith;;1205.00
+;;;;;;;
+A 272;2020-11-11;Korrigering av ver.nr. A270, iZettle sep utbe;Övrig insättning;;;;
+;;1941 Bank ZÅG;;;ZÅG;;1000.00
+;;3100 Intäkter Mat;;;ZÅG;1000.00;
+;;;;;;;
+A 273;2020-09-09;intäckter mat Nollspecial Zenithsläpp  (korrigerad med verifikation A403 av Kassör Zenith, 2021-02-12);Manuell verifikation;;;;
+;;1690 Fordran iZettle;;Zenithsläpp Nollspecial;Zenith;1970.00;
+;;3100 Intäkter Mat;;Zenithsläpp Nollspecial;Zenith;;1970.00
+;;;;;;;
+A 274;2020-10-11;Intäkter Daltonz Höztlan;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;LAN;DaltonZ;1276.00;
+;;3100 Intäkter Mat;;LAN;DaltonZ;;976.00
+;;3110 Intäkter Biljettförsäljning;;LAN;DaltonZ;;200.00
+;;3109 Intäkter Tjänst;;LAN;DaltonZ;;100.00
+;;;;;;;
+A 275;2020-10-14;Intäkter Onsdagslunch Daltonz;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;Onsdagslunch;DaltonZ;2235.00;
+;;3100 Intäkter Mat;;Onsdagslunch;DaltonZ;;2235.00
+;;;;;;;
+A 276;2020-10-30;Försäljning Daltonzkraft Oktober;Manuell verifikation;;;;
+;;1450 Lager;;DaltonZKraft;DaltonZ;;510.00
+;;4000 Inköp av Mat;;DaltonZKraft;DaltonZ;510.00;
+;;;;;;;
+A 277;2020-11-22;Misslyckat försök på korrigering av ZÅG:s korrigering på A269 vilket tog bort A243 ( Verifikation A286 nollställer därför allt (Ztyret Kassör, 2020-11-22));Manuell verifikation;;;;
+;;1930 Bank Ztyret;;;Ztyret;;9595.00
+;;1690 Fordran iZettle;;;Ztyret;9595.00;
+;;1941 Bank ZÅG;;;ZÅG;1000.00;
+;;1690 Fordran iZettle;;;ZÅG;;1000.00
+;;1935 Bank ZEXET;;;ZEXET;1475.00;
+;;1690 Fordran iZettle;;;ZEXET;;1475.00
+;;1934 Bank Zenith;;;Zenith;2790.00;
+;;1690 Fordran iZettle;;;Zenith;;2790.00
+;;1932 Bank DaltonZ;;;DaltonZ;3305.00;
+;;1690 Fordran iZettle;;;DaltonZ;;3305.00
+;;1936 Bank ZIK;;;ZIK;1025.00;
+;;1690 Fordran iZettle;;;ZIK;;1025.00
+;;;;;;;
+A 278;2020-09-23;Onsdagslunch 23/9-20;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;;ZÅG;1000.00;
+;;3100 Intäkter Mat;;;ZÅG;;1000.00
+;;;;;;;
+A 279;2020-11-11;Överföring via internet iZettle sep utbe (korrigerad med verifikation A283 av Kassör Zexet, 2020-11-22);Övrig insättning;;;;
+;;1935 Bank ZEXET;;Onsdagslunch;ZEXET;1475.00;
+;;1690 Fordran iZettle;;Onsdagslunch;ZEXET;;1475.00
+;;;;;;;
+A 280;2020-11-22;Onsdagslunch - iZettle;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;Onsdagslunch;ZEXET;1475.00;
+;;3100 Intäkter Mat;;Onsdagslunch;ZEXET;;1475.00
+;;;;;;;
+A 281;2020-11-05;Skarvsladd, Oscar Stålnacke;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;99.00
+;;1942 Bank Överföring;;;;99.00;
+;;;;;;;
+A 282;2020-09-21;Klorin, Depp ZnollK;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;95.60
+;;1942 Bank Överföring;;;ZØK;95.60;
+;;;;;;;
+A 283;2020-11-11;Korrigering av ver.nr. A279, Överföring via internet iZettle sep utbe;Övrig insättning;;;;
+;;1935 Bank ZEXET;;Onsdagslunch;ZEXET;;1475.00
+;;1690 Fordran iZettle;;Onsdagslunch;ZEXET;1475.00;
+;;;;;;;
+A 284;2020-09-12;Intäkter Daltonz ZKK pub;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;;DaltonZ;3255.00;
+;;3100 Intäkter Mat;;;DaltonZ;;565.00
+;;3101 Intäkter Starköl;;;DaltonZ;;565.00
+;;3103 Intäkter Sprit;;;DaltonZ;;1650.00
+;;3104 Intäkter AJA;;;DaltonZ;;475.00
+;;;;;;;
+A 285;2020-11-11;iZettle Ztyret till kommittéer sep (ej Znollk då de lånat pengarna i förväg, se A118 och A257);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;9595.00
+;;1690 Fordran iZettle;;;Ztyret;9595.00;
+;;1941 Bank ZÅG;;;ZÅG;1000.00;
+;;1690 Fordran iZettle;;;ZÅG;;1000.00
+;;1935 Bank ZEXET;;;ZEXET;1475.00;
+;;1690 Fordran iZettle;;;ZEXET;;1475.00
+;;1934 Bank Zenith;;;Zenith;2790.00;
+;;1690 Fordran iZettle;;;Zenith;;2790.00
+;;1932 Bank DaltonZ;;;DaltonZ;3305.00;
+;;1690 Fordran iZettle;;;DaltonZ;;3305.00
+;;1936 Bank ZIK;;;ZIK;1025.00;
+;;1690 Fordran iZettle;;;ZIK;;1025.00
+;;;;;;;
+A 286;2020-11-22;Korrigeringsverifikat som nollställer  A277, A269 och A243, rätta verifikatet är A285 (av Ztyret Kassör, 2020-11-22);Manuell verifikation;;;;
+;;1930 Bank Ztyret;;;Ztyret;9595.00;
+;;1690 Fordran iZettle;;;Ztyret;;9595.00
+;;1941 Bank ZÅG;;;ZÅG;;1000.00
+;;1690 Fordran iZettle;;;ZÅG;1000.00;
+;;1935 Bank ZEXET;;;ZEXET;;1475.00
+;;1690 Fordran iZettle;;;ZEXET;1475.00;
+;;1934 Bank Zenith;;;Zenith;;2790.00
+;;1690 Fordran iZettle;;;Zenith;2790.00;
+;;1932 Bank DaltonZ;;;DaltonZ;;3305.00
+;;1690 Fordran iZettle;;;DaltonZ;3305.00;
+;;1936 Bank ZIK;;;ZIK;;1025.00
+;;1690 Fordran iZettle;;;ZIK;1025.00;
+;;;;;;;
+A 287;2020-09-01;Introzittning, Krakelspextakel;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Introsittning;ZØK;;119.20
+;;4000 Inköp av Mat;;Introsittning;ZØK;119.20;
+;;;;;;;
+A 288;2020-09-01;Introzittning, Gråluvan;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Introsittning;ZØK;;189.60
+;;4000 Inköp av Mat;;Introsittning;ZØK;189.60;
+;;;;;;;
+A 289;2020-09-01;Introzittning, Kapten Zoom;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Introsittning;ZØK;;179.77
+;;4000 Inköp av Mat;;Introsittning;ZØK;179.77;
+;;;;;;;
+A 290;2020-09-01;Introzittning, Nalles grå hus;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Introsittning;ZØK;;139.90
+;;4000 Inköp av Mat;;Introsittning;ZØK;139.90;
+;;;;;;;
+A 291;2020-09-01;Extra inköp Revealzittningen;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Revealzittning;ZØK;;580.00
+;;4000 Inköp av Mat;;Revealzittning;ZØK;580.00;
+;;;;;;;
+A 292;2020-09-01;Inköp dekor Revealzittningen;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Revealzittning;ZØK;;436.00
+;;4020 Övriga kostnader arrangemang;;Revealzittning;ZØK;436.00;
+;;;;;;;
+A 293;2020-09-02;Inköp mat Revealzittningen;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Revealzittning;ZØK;;4118.76
+;;4000 Inköp av Mat;;Revealzittning;ZØK;4118.76;
+;;;;;;;
+A 294;2020-09-02;Extra inköp Revealzittningen;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Revealzittning;ZØK;;1973.08
+;;4000 Inköp av Mat;;Revealzittning;ZØK;1136.95;
+;;4020 Övriga kostnader arrangemang;;Revealzittning;ZØK;836.13;
+;;;;;;;
+A 295;2020-09-02;Inköp alkohol Revealzittningen;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Revealzittning;ZØK;;6961.00
+;;4000 Inköp av Mat;;Revealzittning;ZØK;334.00;
+;;4003 Inköp av Sprit;;Revealzittning;ZØK;1302.00;
+;;4002 Inköp av Vin;;Revealzittning;ZØK;5325.00;
+;;;;;;;
+A 296;2020-09-07;Inköp mat Nolluppdragsbrunch;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Brunch;ZØK;;470.20
+;;4000 Inköp av Mat;;Brunch;ZØK;470.20;
+;;;;;;;
+A 297;2020-09-07;Inköp mat Årliga;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Znollks årliga;ZØK;;2669.71
+;;4000 Inköp av Mat;;Znollks årliga;ZØK;2669.71;
+;;;;;;;
+A 298;2020-09-07;Inköp puffgodis Årliga;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Znollks årliga;ZØK;;93.60
+;;6640 Arbetsmat;;Znollks årliga;ZØK;93.60;
+;;;;;;;
+A 299;2020-09-07;Retur alkohol Revealzittningen;Övrig insättning;;;;
+;;1937 Bank ZNollK;;Revealzittning;ZØK;1742.00;
+;;4003 Inköp av Sprit;;Revealzittning;ZØK;;372.00
+;;4000 Inköp av Mat;;Revealzittning;ZØK;;59.00
+;;4002 Inköp av Vin;;Revealzittning;ZØK;;1311.00
+;;;;;;;
+A 300;2020-09-14;Inköp mat ZKK:s Pub;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;ZKK:s Pub;ZØK;;2551.24
+;;4000 Inköp av Mat;;ZKK:s Pub;ZØK;2551.24;
+;;;;;;;
+A 301;2020-09-14;Inköp alkohol ZKK:s Pub;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;ZKK:s Pub;ZØK;;4191.10
+;;4000 Inköp av Mat;;ZKK:s Pub;ZØK;445.60;
+;;4001 Inköp av Starköl;;ZKK:s Pub;ZØK;1547.10;
+;;4003 Inköp av Sprit;;ZKK:s Pub;ZØK;1292.00;
+;;4004 Inköp av AJA;;ZKK:s Pub;ZØK;906.40;
+;;;;;;;
+A 302;2020-09-14;Extra inköp dryck ZKK:s Pub;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;ZKK:s Pub;ZØK;;81.65
+;;4000 Inköp av Mat;;ZKK:s Pub;ZØK;81.65;
+;;;;;;;
+A 303;2020-09-14;Inköp fika Nolluppdragsredovisning;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Nolluppdrag;ZØK;;107.10
+;;4000 Inköp av Mat;;Nolluppdrag;ZØK;107.10;
+;;;;;;;
+A 304;2020-09-15;Retur alkohol ZKK:s Pub;Övrig insättning;;;;
+;;1937 Bank ZNollK;;ZKK:s Pub;ZØK;1219.50;
+;;4000 Inköp av Mat;;ZKK:s Pub;ZØK;;322.90
+;;4001 Inköp av Starköl;;ZKK:s Pub;ZØK;;879.70
+;;4004 Inköp av AJA;;ZKK:s Pub;ZØK;;16.90
+;;;;;;;
+A 305;2020-09-16;Introzittning, Z-3PO;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Introsittning;ZØK;;124.90
+;;4000 Inköp av Mat;;Introsittning;ZØK;124.90;
+;;;;;;;
+A 306;2020-09-16;Inköp Munskydd och Handskar;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;783.00
+;;6120 Inköp Förbrukningsmaterial;;;ZØK;783.00;
+;;;;;;;
+A 307;2020-09-16;Inköp pennor till Nollbrickor och allmänt;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;60.00
+;;6120 Inköp Förbrukningsmaterial;;;ZØK;60.00;
+;;;;;;;
+A 308;2020-09-16;Nollbricksmaterial;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;49.60
+;;6120 Inköp Förbrukningsmaterial;;;ZØK;49.60;
+;;;;;;;
+A 309;2020-09-16;Inköp material till ZuperNollbrickan;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;136.74
+;;6120 Inköp Förbrukningsmaterial;;;ZØK;136.74;
+;;;;;;;
+A 310;2020-09-16;Inköp mat JämZkojj;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;JämZkojj;ZØK;;1128.70
+;;4000 Inköp av Mat;;JämZkojj;ZØK;1128.70;
+;;;;;;;
+A 311;2020-09-21;Nollbricksförstöring Pyrot;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;250.00
+;;4109 Inköp av Tjänst;;;ZØK;250.00;
+;;;;;;;
+A 312;2020-09-21;Hyrning LOB-kit Revealzittningen;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Revealzittning;ZØK;;895.00
+;;4031 Hyra Utrustning;;Revealzittning;ZØK;895.00;
+;;;;;;;
+A 313;2020-09-23;Avgifter mottagningskampen;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Mottagningskampen;ZØK;;2050.00
+;;4110 Kostnader Biljetter;;Mottagningskampen;ZØK;2050.00;
+;;;;;;;
+A 314;2020-11-25;inköp Kommittékläder hatt capcha;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Kommittékläder;Zenith;;238.00
+;;6701 Kostnader Arbetsklädsel;;Kommittékläder;Zenith;238.00;
+;;;;;;;
+A 315;2020-09-24;Bg-bet. via internet;Övrigt uttag;;;;
+;;1933 Bank SNZ;;Kommittékläder;SNZ;;2588.00
+;;6701 Kostnader Arbetsklädsel;;Kommittékläder;SNZ;2588.00;
+;;;;;;;
+A 316;2020-09-28;Insättning;Övrig insättning;;;;
+;;1933 Bank SNZ;;Äskning programmet;SNZ;25100.00;
+;;3920 Äskningar;;Äskning programmet;SNZ;;25100.00
+;;;;;;;
+A 317;2020-10-09;Överföring via internet;Övrigt uttag;;;;
+;;1933 Bank SNZ;;Konstruktionstävling;SNZ;;987.08
+;;4000 Inköp av Mat;;Konstruktionstävling;SNZ;987.08;
+;;;;;;;
+A 318;2020-10-13;Kortköp/uttag;Övrigt uttag;;;;
+;;1933 Bank SNZ;;;SNZ;;223.18
+;;4000 Inköp av Mat;;;SNZ;223.18;
+;;;;;;;
+A 319;2020-10-13;Kortköp/uttag;Övrigt uttag;;;;
+;;1933 Bank SNZ;;;SNZ;;400.69
+;;4000 Inköp av Mat;;;SNZ;400.69;
+;;;;;;;
+A 320;2020-10-26;Pg-bet. via internet;Övrigt uttag;;;;
+;;1933 Bank SNZ;;;SNZ;;618.00
+;;6720 Tryckkostnader;;;SNZ;618.00;
+;;;;;;;
+A 321;2020-11-26;Överföring via internet;Övrigt uttag;;;;
+;;1933 Bank SNZ;;;SNZ;;618.80
+;;6700 Kostnader Representation;;;SNZ;618.80;
+;;;;;;;
+A 322;2020-11-26;Överföring via internet;Övrigt uttag;;;;
+;;1933 Bank SNZ;;Konstruktionstävling;SNZ;;119.70
+;;6120 Inköp Förbrukningsmaterial;;Konstruktionstävling;SNZ;119.70;
+;;;;;;;
+A 323;2020-10-12;Korrigering av ver.nr. A103, Äskning zenith (extra pengar) och ZIK (högtalare) (av Ztyret Kassör, 2020-12-07);Övrigt uttag;;;;
+;;1934 Bank Zenith;;Kommitéäskningar;Zenith;;7000.00
+;;1936 Bank ZIK;;Kommitéäskningar;ZIK;;3000.00
+;;1942 Bank Överföring;;Kommitéäskningar;Zenith;7000.00;
+;;1942 Bank Överföring;;Kommitéäskningar;ZIK;3000.00;
+;;;;;;;
+A 324;2020-08-03;Korrigering (nollning) av ver.nr. A14, Äskning coronamottagning (av Ztyret Kassör, 2020-12-07);Övrigt uttag;;;;
+;;1937 Bank ZNollK;;Kommitéäskningar;ZØK;;8000.00
+;;1942 Bank Överföring;;Kommitéäskningar;ZØK;8000.00;
+;;;;;;;
+A 325;2020-11-26;Ireps intrezzeklubben;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;180.00
+;;6700 Kostnader Representation;;;IntrezzeK;180.00;
+;;;;;;;
+A 326;2020-12-03;Blommor hedersmedlem (BEB);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Hedersmedlemmar;Ztyret;;238.00
+;;6610 Gåvor;;Hedersmedlemmar;Ztyret;238.00;
+;;;;;;;
+A 327;2020-11-25;Blommor hedersmedlem (BeLe);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Hedersmedlemmar;Ztyret;;238.00
+;;6610 Gåvor;;Hedersmedlemmar;Ztyret;238.00;
+;;;;;;;
+A 328;2020-11-27;Domänavgift ArgZ;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;173.75
+;;6605 Licenser och avgifter för tjänst;;;Ztyret;173.75;
+;;;;;;;
+A 329;2020-12-10;Arbetsmat Sektionsmöte  ;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;312.00
+;;6640 Arbetsmat;;;Ztyret;274.18;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;37.82;
+;;;;;;;
+A 330;2020-12-07;Visma avgifter;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Visma;Ztyret;;2520.00
+;;6605 Licenser och avgifter för tjänst;;Visma;Ztyret;2520.00;
+;;;;;;;
+A 331;2020-12-21;Arbetsmat gemensam överlämning;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;305.00
+;;6640 Arbetsmat;;;ZEXET;305.00;
+;;;;;;;
+A 332;2020-12-21;Internreps ;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;800.00
+;;6700 Kostnader Representation;;;ZEXET;800.00;
+;;;;;;;
+A 333;2021-01-18;Tidningstryck 11-12/2020;Övrigt uttag;;;;
+;;1934 Bank Zenith;;;Zenith;;1961.00
+;;6720 Tryckkostnader;;;Zenith;1961.00;
+;;;;;;;
+A 334;2021-01-04;Inköp komiteklädsel hattar partykungen;Inköp mot kvitto;;;;
+;;1934 Bank Zenith;;Kommittékläder;Zenith;;790.00
+;;6701 Kostnader Arbetsklädsel;;Kommittékläder;Zenith;790.00;
+;;;;;;;
+A 335;2020-12-11;Interreps zenith Escaperoom;Övrigt uttag;;;;
+;;1934 Bank Zenith;;;Zenith;;1008.00
+;;6700 Kostnader Representation;;;Zenith;1008.00;
+;;;;;;;
+A 336;2020-12-07;Visma integration;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Visma;Ztyret;;159.00
+;;6605 Licenser och avgifter för tjänst;;Visma;Ztyret;159.00;
+;;;;;;;
+A 337;2021-01-07;Arbetsmat Ztyretmöte 4 pers;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;360.00
+;;6640 Arbetsmat;;Ztyretmöten;Ztyret;182.78;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;177.22;
+;;;;;;;
+A 338;2020-12-10;Nya skott för sektionsmötets (leksaks)pistol;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Sektionsmöten;Ztyret;;98.00
+;;6703 Kostnader Möten;;Sektionsmöten;Ztyret;98.00;
+;;;;;;;
+A 339;2020-12-28;Matkuponger för deltagande på det digitala sektionsmötet;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Sektionsmöten;Ztyret;;5200.00
+;;6703 Kostnader Möten;;Sektionsmöten;Ztyret;5200.00;
+;;;;;;;
+A 340;2020-12-16;Medlemsavgifter HT2020;Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;23760.00;
+;;3901 Medlemsavgifter;;;Ztyret;;23760.00
+;;;;;;;
+A 341;2021-01-13;Hjälp med visma;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Hjälp med sektionsekonomi;Ztyret;;988.00
+;;6702 Kostnader Utbildning;;Hjälp med sektionsekonomi;Ztyret;988.00;
+;;;;;;;
+A 342;2020-12-07;Inbetalning medlemsskuld (A498-19/20 & A230-19/20);Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;2271.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;;VB;;2271.00
+;;;;;;;
+A 343;2020-12-03;Arbetsmat Julbord Dag1 [2020-12-02];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;;134.58
+;;6640 Arbetsmat;;DaltonZ Julbord;DaltonZ;134.58;
+;;;;;;;
+A 344;2020-12-03;Komplementköp smör Julbord [2020-12-02];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;;93.00
+;;4000 Inköp av Mat;;DaltonZ Julbord;DaltonZ;93.00;
+;;;;;;;
+A 345;2020-12-03;Inköp mat Julbord [2020-12-02];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;;8868.15
+;;4000 Inköp av Mat;;DaltonZ Julbord;DaltonZ;6498.35;
+;;6120 Inköp Förbrukningsmaterial;;DaltonZ Julbord;DaltonZ;2369.80;
+;;;;;;;
+A 346;2020-12-03;Inköp 2 mat Julbord [2020-12-02];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;;4366.45
+;;4000 Inköp av Mat;;DaltonZ Julbord;DaltonZ;4366.45;
+;;;;;;;
+A 347;2020-12-04;Bilhyra Inköp 3 på Snabbgross Julbord [2020-12-02];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;;238.83
+;;5610 Transportkostnader;;DaltonZ Julbord;DaltonZ;238.83;
+;;;;;;;
+A 348;2020-12-04;Arbetsmat Julbord Dag2 [2020-12-03];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;;135.20
+;;6640 Arbetsmat;;DaltonZ Julbord;DaltonZ;135.20;
+;;;;;;;
+A 349;2020-12-04;Inköp 3 mat Julbord [2020-12-03];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;;4063.64
+;;4000 Inköp av Mat;;DaltonZ Julbord;DaltonZ;3730.81;
+;;6120 Inköp Förbrukningsmaterial;;DaltonZ Julbord;DaltonZ;332.83;
+;;;;;;;
+A 350;2020-12-07;Zittningshäfte Julbord [2020-12-04];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;;316.00
+;;6120 Inköp Förbrukningsmaterial;;DaltonZ Julbord;DaltonZ;316.00;
+;;;;;;;
+A 351;2020-12-07;Satinband Zittningshäfte Julbord [2020-12-04];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;;42.90
+;;6120 Inköp Förbrukningsmaterial;;DaltonZ Julbord;DaltonZ;42.90;
+;;;;;;;
+A 352;2020-12-07;Arbetsmat Julbord Dag3 [2020-12-04];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;;378.99
+;;6640 Arbetsmat;;DaltonZ Julbord;DaltonZ;378.99;
+;;;;;;;
+A 353;2020-12-07;Microfon toastning Julbord [2020-12-04];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;;155.00
+;;6110 Inköp Utrustning;;DaltonZ Julbord;DaltonZ;155.00;
+;;;;;;;
+A 354;2020-12-11;Inköp av hattar till ZEXET 21;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;3592.00
+;;1790 Övriga förutbetalda kostnader och upplupna intäkter;;;ZEXET;3592.00;
+;;;;;;;
+A 355;2020-12-21;Inköp av ovvar till ZEXET 21;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;1456.00
+;;1790 Övriga förutbetalda kostnader och upplupna intäkter;;;ZEXET;1456.00;
+;;;;;;;
+A 356;2020-12-07;Bilhyra Utkörning Mat Julbord [2020-12-05];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;;609.83
+;;5610 Transportkostnader;;DaltonZ Julbord;DaltonZ;609.83;
+;;;;;;;
+A 357;2020-12-03;Bilhyra Inköp 3 på Snabbgross Julbord [2020-12-03];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;;425.00
+;;5610 Transportkostnader;;DaltonZ Julbord;DaltonZ;425.00;
+;;;;;;;
+A 358;2020-12-21;Bankkostnader;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;;DaltonZ;;58.50
+;;6570 Bankkostnader;;;DaltonZ;58.50;
+;;;;;;;
+A 359;2020-12-30;Et-raj lp 2 dekor utbetalning;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;ET-Raj;DaltonZ;;298.50
+;;6120 Inköp Förbrukningsmaterial;;ET-Raj;DaltonZ;298.50;
+;;;;;;;
+A 360;2021-01-04;rekvisita julhällsning  ;Övrigt uttag;;;;
+;;1934 Bank Zenith;;;Zenith;;136.90
+;;4000 Inköp av Mat;;;Zenith;136.90;
+;;;;;;;
+A 361;2021-01-04;Julbord internreps Max roman;Övrigt uttag;;;;
+;;1934 Bank Zenith;;;Zenith;;80.00
+;;6700 Kostnader Representation;;;Zenith;80.00;
+;;;;;;;
+A 362;2021-01-04;JulbrdInternreps Victor lanner;Övrigt uttag;;;;
+;;1934 Bank Zenith;;;Zenith;;80.00
+;;6700 Kostnader Representation;;;Zenith;80.00;
+;;;;;;;
+A 363;2021-01-04;Julbord internreps Andreas nylen;Övrigt uttag;;;;
+;;1934 Bank Zenith;;;Zenith;;80.00
+;;6700 Kostnader Representation;;;Zenith;80.00;
+;;;;;;;
+A 364;2021-01-04;Julbord intyernreps Måns jakobi;Övrigt uttag;;;;
+;;1934 Bank Zenith;;;Zenith;;80.00
+;;6700 Kostnader Representation;;;Zenith;80.00;
+;;;;;;;
+A 365;2021-01-04;Julbord internreps Hilda olin;Övrigt uttag;;;;
+;;1934 Bank Zenith;;;Zenith;;80.00
+;;6700 Kostnader Representation;;;Zenith;80.00;
+;;;;;;;
+A 366;2021-01-27;Överföring via internet ;Övrigt uttag;;;;
+;;1933 Bank SNZ;;Kontorsmaterial;SNZ;;95.00
+;;6610 Gåvor;;Kontorsmaterial;SNZ;95.00;
+;;;;;;;
+A 367;2020-12-30;Korrigering felaktig utbetalning för ZZK:arr [2020-09-12];Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;;DaltonZ;;3305.00
+;;1942 Bank Överföring;;;ZØK;3305.00;
+;;;;;;;
+A 368;2020-12-07;Intäkter Julbord Biljettförsäljning;Manuell verifikation;;;;
+;;1932 Bank DaltonZ;;DaltonZ Julbord;DaltonZ;6400.00;
+;;3110 Intäkter Biljettförsäljning;;DaltonZ Julbord;DaltonZ;;6400.00
+;;;;;;;
+A 369;2020-12-21;Köksvåg till Zaloonen;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;259.80
+;;6110 Inköp Utrustning;;;ZÅG;259.80;
+;;;;;;;
+A 370;2020-11-25;Återbetalning av deposition A268;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;500.00
+;;1942 Bank Överföring;;;ZÅG;500.00;
+;;;;;;;
+A 371;2020-11-30;Biluthyrning för inköp till renovering i Zaloonen;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;240.50
+;;5610 Transportkostnader;;;ZÅG;240.50;
+;;;;;;;
+A 372;2020-11-30;Kortköp/uttag GIBRALTAR PIZZERIA KOM K1338 (korrigerad med verifikation A392 av Kassör ZÅG, 2021-01-31);Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;200.00
+;;6640 Arbetsmat;;;ZÅG;200.00;
+;;;;;;;
+A 373;2020-11-30;Inköp till renovering 30/11-21;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;339.30
+;;6120 Inköp Förbrukningsmaterial;;;ZÅG;339.30;
+;;;;;;;
+A 374;2020-11-30;Inköp till renovering 30/11-20;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;52.50
+;;6120 Inköp Förbrukningsmaterial;;;ZÅG;52.50;
+;;;;;;;
+A 375;2020-12-11;Justering av A257, Swish-beloppet fås av Swish-numret, går ej genom iZettle utbetalning (200kr Znollk, 50kr DaltonZ);Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;200.00;
+;;1690 Fordran iZettle;;;Ztyret;;200.00
+;;1690 Fordran iZettle;;;ZØK;200.00;
+;;1937 Bank ZNollK;;;ZØK;;200.00
+;;;;;;;
+A 376;2020-12-09;Arbetsmat Ztyret-möte;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;360.00
+;;6640 Arbetsmat;;;Ztyret;182.78;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;177.22;
+;;;;;;;
+A 377;2020-12-10;Arbetsmat sektionsmöte ( Andra kvittot gäller för A329);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;208.00
+;;6640 Arbetsmat;;;Ztyret;182.78;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;25.22;
+;;;;;;;
+A 378;2021-01-19;ireps och klädsel zpel;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;1439.00
+;;6700 Kostnader Representation;;;Zpel;395.00;
+;;6701 Kostnader Arbetsklädsel;;;Zpel;1044.00;
+;;;;;;;
+A 379;2021-01-20;Arbetsmat Ztyret-möte 5 pers;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;274.00
+;;6640 Arbetsmat;;;Ztyret;228.48;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;45.52;
+;;;;;;;
+A 380;2021-01-20;Bankavgifter;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Bankavgifter;Ztyret;;2500.00
+;;6605 Licenser och avgifter för tjänst;;Bankavgifter;Ztyret;2500.00;
+;;;;;;;
+A 381;2021-01-20;Tillbaka medlemsskuld för A376;Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;177.22;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;;177.22
+;;;;;;;
+A 382;2021-01-25;Domänavgift;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;173.75
+;;6605 Licenser och avgifter för tjänst;;;Ztyret;173.75;
+;;;;;;;
+A 383;2021-01-26;Försäkringar genom  kåren;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;1200.00
+;;6800 Övriga externa kostnader;;;Ztyret;1200.00;
+;;;;;;;
+A 384;2021-01-27;jämZ föreläsning BG 0000002838431;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;13125.00
+;;4109 Inköp av Tjänst;;;JämZ;13125.00;
+;;;;;;;
+A 385;2020-09-15;Utjämning Ztyret skulld (korrigerad med verifikation A408 av Kassör Zenith, 2021-02-13);Manuell verifikation;;;;
+;;1690 Fordran iZettle;;;Zenith;820.00;
+;;1934 Bank Zenith;;;Zenith;;820.00
+;;;;;;;
+A 386;2021-01-29;Mat under AZP;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;511.38
+;;4000 Inköp av Mat;;;ZIK;511.38;
+;;;;;;;
+A 387;2021-01-26;Hyra Motionshall;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;750.00
+;;4030 Hyra Lokal;;;ZIK;750.00;
+;;;;;;;
+A 388;2021-01-04;Mat till mottagningsarr;Övrig insättning;;;;
+;;1931 Bank ArgZ;;;ArgZ;1000.00;
+;;1942 Bank Överföring;;;ArgZ;;1000.00
+;;;;;;;
+A 389;2020-11-25;Överföring via internet Arbetsmat ZMART;Övrigt uttag;;;;
+;;1931 Bank ArgZ;;ZMART;ArgZ;;620.00
+;;6640 Arbetsmat;;ZMART;ArgZ;620.00;
+;;;;;;;
+A 390;2020-11-25;Överföring via internet Dekor ZMART;Övrigt uttag;;;;
+;;1931 Bank ArgZ;;ZMART;ArgZ;;323.00
+;;4020 Övriga kostnader arrangemang;;ZMART;ArgZ;323.00;
+;;;;;;;
+A 391;2020-11-25;Överföring via internet Arbetsmat ZMART;Övrigt uttag;;;;
+;;1931 Bank ArgZ;;ZMART;ArgZ;;136.80
+;;6640 Arbetsmat;;ZMART;ArgZ;136.80;
+;;;;;;;
+A 392;2020-11-30;Korrigering av ver.nr. A372, Kortköp/uttag GIBRALTAR PIZZERIA KOM K1338;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;200.00;
+;;6640 Arbetsmat;;;ZÅG;;200.00
+;;;;;;;
+A 393;2020-11-30;Kortköp/uttag GIBRALTAR PIZZERIA KOM K1338;Övrigt uttag;;;;
+;;1941 Bank ZÅG;;;ZÅG;;200.00
+;;6640 Arbetsmat;;;ZÅG;200.00;
+;;;;;;;
+A 394;2021-01-04;Fakturering för mottagningen betald av Znollk;Övrig insättning;;;;
+;;1935 Bank ZEXET;;;ZEXET;10709.00;
+;;1942 Bank Överföring;;;ZEXET;;10709.00
+;;;;;;;
+A 395;2021-01-27;ZMART BG Yaskawa och Kollmorgen;Övrig insättning;;;;
+;;1931 Bank ArgZ;;ZMART;ArgZ;33200.00;
+;;3114 Intäkter Företagsevent;;ZMART;ArgZ;;33200.00
+;;;;;;;
+A 396;2021-02-01;Sus-utbildning nollK;Inköp mot kvitto;;;;
+;;1937 Bank ZNollK;;Serveringstillstånd;ZØK;;600.00
+;;6702 Kostnader Utbildning;;Serveringstillstånd;ZØK;600.00;
+;;;;;;;
+A 397;2021-01-29;ARAMBA -Overaller, felaktiga;Inköp mot kvitto;;;;
+;;1937 Bank ZNollK;;;ZØK;;6343.75
+;;6701 Kostnader Arbetsklädsel;;;ZØK;6343.75;
+;;;;;;;
+A 398;2021-01-08;Märken kommittéklädsel;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;192.00
+;;6701 Kostnader Arbetsklädsel;;;ZEXET;192.00;
+;;;;;;;
+A 399;2021-02-01;SUS-utbilding ;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;900.00
+;;6605 Licenser och avgifter för tjänst;;;ZEXET;900.00;
+;;;;;;;
+A 400;2021-02-01;Bg-bet. via internet Mera Tryck I Par;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;4443.00
+;;6701 Kostnader Arbetsklädsel;;;ZEXET;4443.00;
+;;;;;;;
+A 401;2021-02-03;PAYPAL *ARAMBA Kläder återbetalning;Övrig insättning;;;;
+;;1937 Bank ZNollK;;;ZØK;6343.75;
+;;6701 Kostnader Arbetsklädsel;;;ZØK;;6343.75
+;;;;;;;
+A 402;2020-10-15;Korrigering av ver.nr. A137, Uncategorized iZettle Import (av Kassör Zenith, 2021-02-12) (korrigerad med verifikation A405 av Kassör Zenith, 2021-02-12);;;;;
+;;1690 Fordran iZettle;;Automatisk iZettle Import;Zenith;;4598.00
+;;1690 Fordran iZettle;;Automatisk iZettle Import;Zenith;4598.00;
+;;3101 Intäkter Starköl;;Automatisk iZettle Import;Zenith;705.00;
+;;3101 Intäkter Starköl;;Automatisk iZettle Import;Zenith;;705.00
+;;3120 Intäkter Övriga;;Automatisk iZettle Import;Zenith;1870.00;
+;;3120 Intäkter Övriga;;Automatisk iZettle Import;Zenith;;1870.00
+;;3102 Intäkter Vin (gammal Alkoholförsäljning);;Automatisk iZettle Import;Zenith;250.00;
+;;3102 Intäkter Vin (gammal Alkoholförsäljning);;Automatisk iZettle Import;Zenith;;250.00
+;;3103 Intäkter Sprit;;Automatisk iZettle Import;Zenith;1205.00;
+;;3103 Intäkter Sprit;;Automatisk iZettle Import;Zenith;;1205.00
+;;3100 Intäkter Mat;;Automatisk iZettle Import;Zenith;318.00;
+;;3100 Intäkter Mat;;Automatisk iZettle Import;Zenith;;318.00
+;;3104 Intäkter AJA;;Automatisk iZettle Import;Zenith;250.00;
+;;3104 Intäkter AJA;;Automatisk iZettle Import;Zenith;;250.00
+;;;;;;;
+A 403;2020-09-09;Korrigering av ver.nr. A273, intäckter mat Nollspecial Zenithsläpp  (av Kassör Zenith, 2021-02-12) (korrigerad med verifikation A406 av Kassör Zenith, 2021-02-12);Manuell verifikation;;;;
+;;1690 Fordran iZettle;;Zenithsläpp Nollspecial;Zenith;;1970.00
+;;1690 Fordran iZettle;;Zenithsläpp Nollspecial;Zenith;1970.00;
+;;3100 Intäkter Mat;;Zenithsläpp Nollspecial;Zenith;1970.00;
+;;3100 Intäkter Mat;;Zenithsläpp Nollspecial;Zenith;;1970.00
+;;;;;;;
+A 404;2020-11-11;Korrigering av ver.nr. A259, swish Zenith Smörgåstårta (av Kassör Zenith, 2021-02-12);Övrig insättning;;;;
+;;3100 Intäkter Mat;;Zenithzläpp LP1;Zenith;350.00;
+;;1942 Bank Överföring;;Zenithzläpp LP1;Zenith;;350.00
+;;;;;;;
+A 405;2020-10-15;Korrigering av ver.nr. A402, Korrigering av ver.nr. A137, Uncategorized iZettle Import (av Kassör Zenith, 2021-02-12) (av Kassör Zenith, 2021-02-12);;;;;
+;;1690 Fordran iZettle;;Automatisk iZettle Import;Zenith;;4598.00
+;;3101 Intäkter Starköl;;Automatisk iZettle Import;Zenith;705.00;
+;;3120 Intäkter Övriga;;Automatisk iZettle Import;Zenith;1870.00;
+;;3102 Intäkter Vin (gammal Alkoholförsäljning);;Automatisk iZettle Import;Zenith;250.00;
+;;3103 Intäkter Sprit;;Automatisk iZettle Import;Zenith;1205.00;
+;;3100 Intäkter Mat;;Automatisk iZettle Import;Zenith;318.00;
+;;3104 Intäkter AJA;;Automatisk iZettle Import;Zenith;250.00;
+;;;;;;;
+A 406;2020-09-09;Korrigering av ver.nr. A403, Korrigering av ver.nr. A273, intäckter mat Nollspecial Zenithsläpp  (av Kassör Zenith, 2021-02-12) (av Kassör Zenith, 2021-02-12);Manuell verifikation;;;;
+;;1690 Fordran iZettle;;Zenithsläpp Nollspecial;Zenith;;1970.00
+;;3100 Intäkter Mat;;Zenithsläpp Nollspecial;Zenith;1970.00;
+;;;;;;;
+A 407;2020-10-12;Äskning zenith;Övrig insättning;;;;
+;;1934 Bank Zenith;;;Zenith;7000.00;
+;;1942 Bank Överföring;;;Zenith;;7000.00
+;;;;;;;
+A 408;2020-09-15;Korrigering av ver.nr. A385, Utjämning Ztyret skulld (av Kassör Zenith, 2021-02-13);Manuell verifikation;;;;
+;;1690 Fordran iZettle;;;Zenith;;820.00
+;;1934 Bank Zenith;;;Zenith;820.00;
+;;;;;;;
+A 409;2020-09-15;försäljning nollspecialen;Manuell verifikation;;;;
+;;1690 Fordran iZettle;;Zenithsläpp Nollspecial;Zenith;820.00;
+;;3100 Intäkter Mat;;Zenithsläpp Nollspecial;Zenith;;820.00
+;;;;;;;
+A 410;2020-11-05;Fakturering Znollk första zittningen;Manuell verifikation;;;;
+;;1935 Bank ZEXET;;Första Zittningen;ZEXET;;10709.00
+;;1942 Bank Överföring;;Första Zittningen;ZØK;10709.00;
+;;;;;;;
+A 411;2021-02-25;Inköp Overaller;Inköp mot kvitto;;;;
+;;1937 Bank ZNollK;;;ZØK;;2764.00
+;;6701 Kostnader Arbetsklädsel;;;ZØK;2764.00;
+;;;;;;;
+A 412;2021-02-25;Ersättning medlem internrepresentation;Inköp mot kvitto;;;;
+;;1937 Bank ZNollK;;;ZØK;;116.90
+;;6700 Kostnader Representation;;;ZØK;116.90;
+;;;;;;;
+A 413;2021-03-01;Ersättning Inköp av färg;Inköp mot kvitto;;;;
+;;1937 Bank ZNollK;;;ZØK;;238.00
+;;6701 Kostnader Arbetsklädsel;;;ZØK;238.00;
+;;;;;;;
+A 414;2021-02-02;Swish utbetalning, ZKK arr (Behöver swishunderlag);Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;1010.00
+;;1942 Bank Överföring;;;ZØK;1010.00;
+;;;;;;;
+A 415;2021-02-02;Fel inloggning iZettle onsdagslunch;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;25.00
+;;1942 Bank Överföring;;;DaltonZ;25.00;
+;;;;;;;
+A 416;2021-02-02;In betalning av medlemsskuld A329, A377, A337, A379  (20/21) & A744 (19/20);Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;420.78;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;;420.78
+;;;;;;;
+A 417;2021-02-02;iZettle inbetalning jan;Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;196.50;
+;;6605 Licenser och avgifter för tjänst;;iZettle avgifter;Ztyret;3.50;
+;;1690 Fordran iZettle;;;Ztyret;;200.00
+;;;;;;;
+A 418;2021-02-04;Justering startbelopp Zenith;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;20903.73
+;;1942 Bank Överföring;;;Zenith;20903.73;
+;;;;;;;
+A 419;2021-02-08;Internrepresentation Ztyret;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;2450.00
+;;6700 Kostnader Representation;;;Ztyret;2142.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;;Ztyret;308.00;
+;;;;;;;
+A 420;2021-02-10;Inköp av kuvert till ZtyreP;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;Kontorsmaterial;Ztyret;;49.00
+;;6120 Inköp Förbrukningsmaterial;;Kontorsmaterial;Ztyret;49.00;
+;;;;;;;
+A 421;2021-02-12;Justering av A257, Swish-beloppet fås av Swish-numret, går ej genom iZettle utbetalning (200kr Znollk, 50kr DaltonZ);Övrig insättning;;;;
+;;1930 Bank Ztyret;;;Ztyret;50.00;
+;;1690 Fordran iZettle;;;Ztyret;;50.00
+;;1690 Fordran iZettle;;;DaltonZ;50.00;
+;;1932 Bank DaltonZ;;;DaltonZ;;50.00
+;;;;;;;
+A 422;2021-02-22;Justering startbelopp ZEXET;Övrigt uttag;;;;
+;;1930 Bank Ztyret;;;Ztyret;;10457.07
+;;1942 Bank Överföring;;;ZEXET;10457.07;
+;;;;;;;
+A 423;2021-03-04;Inköp 2st overal;Inköp mot kvitto;;;;
+;;1937 Bank ZNollK;;;;;901.00
+;;6701 Kostnader Arbetsklädsel;;;;901.00;
+;;;;;;;
+A 424;2021-02-04;Justering startkapital Zenith21;Övrig insättning;;;;
+;;1934 Bank Zenith;;;Zenith;20903.73;
+;;1942 Bank Överföring;;;Ztyret;;20903.73
+;;;;;;;
+A 425;2021-03-01;Gammal faktura Zenith20, tryckkostnader;Övrigt uttag;;;;
+;;1934 Bank Zenith;;;Zenith;;1145.00
+;;6720 Tryckkostnader;;;Zenith;1145.00;
+;;;;;;;
+A 426;2021-03-22;Justering Startkapital Zenith21;Övrigt uttag;;;;
+;;1934 Bank Zenith;;;Zenith;;816.00
+;;1942 Bank Överföring;;;Ztyret;816.00;
+;;;;;;;
+A 427;2021-03-22;Inköp av Kommittéklädsel, 7st overaller;Övrigt uttag;;;;
+;;1934 Bank Zenith;;;Zenith;;5250.00
+;;6701 Kostnader Arbetsklädsel;;;Zenith;5250.00;
+;;;;;;;
+A 428;2021-02-26;Bankgiro inbetalning 57916330;Övrig insättning;;;;
+;;1931 Bank ArgZ;;ZMART;ArgZ;16600.00;
+;;3114 Intäkter Företagsevent;;ZMART;ArgZ;;16600.00
+;;;;;;;
+A 429;2021-01-08;Chalmersmärken kommittéklädsen;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;232.00
+;;6701 Kostnader Arbetsklädsel;;;ZEXET;232.00;
+;;;;;;;
+A 430;2021-01-01;Pris banktjänster Swedbank;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;350.00
+;;6570 Bankkostnader;;;ZEXET;350.00;
+;;;;;;;
+A 431;2021-03-24;Färg skylt/bord, PR;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;69.95
+;;6120 Inköp Förbrukningsmaterial;;;ZEXET;69.95;
+;;;;;;;
+A 432;2021-03-24;Material skylt, PR;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;132.90
+;;6120 Inköp Förbrukningsmaterial;;;ZEXET;132.90;
+;;;;;;;
+A 433;2021-02-26;Middag, internreps;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;447.74
+;;6700 Kostnader Representation;;;ZEXET;447.74;
+;;;;;;;
+A 434;2020-12-31;Resultatspost för Lunchföreläsning ABB;Manuell verifikation;;;;
+;;2910 Upplupna kostnader;;;ZØK;;5695.00
+;;4109 Inköp av Tjänst;;;ZØK;5695.00;
+;;;;;;;
+A 435;2021-04-06;Mat ABB föreläsn;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;5695.00
+;;2910 Upplupna kostnader;;;ZØK;5695.00;
+;;;;;;;
+A 436;2021-03-10;Ersättning medlem Internrepp;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;322.69
+;;6700 Kostnader Representation;;;ZØK;322.69;
+;;;;;;;
+A 437;2021-03-30;Återbetalning lån ZMART;Övrigt uttag;;;;
+;;1931 Bank ArgZ;;ZMART;ArgZ;;155000.00
+;;1942 Bank Överföring;;ZMART;ArgZ;155000.00;
+;;;;;;;
+A 438;2021-03-31;ZMART20 vinstutdelning MARM;Övrigt uttag;;;;
+;;1931 Bank ArgZ;;ZMART;ArgZ;;21546.00
+;;4119 Kostnader Samarrangemang;;ZMART;ArgZ;21546.00;
+;;;;;;;
+A 439;2021-02-19;CPAC Samarbetsavtal 20/21;Övrig insättning;;;;
+;;1931 Bank ArgZ;;;ArgZ;49300.00;
+;;3114 Intäkter Företagsevent;;ZMART;ArgZ;;33600.00
+;;3112 Intäkter Sponsring;;;ArgZ;;15700.00
+;;;;;;;
+A 440;2021-02-08;Tetra-Pak Samarbetsavtal 20/21;Övrig insättning;;;;
+;;1931 Bank ArgZ;;;ArgZ;39400.00;
+;;3114 Intäkter Företagsevent;;ZMART;ArgZ;;21600.00
+;;3112 Intäkter Sponsring;;;ArgZ;;17800.00
+;;;;;;;
+A 441;2021-02-05;ZMART BG IMI;Övrig insättning;;;;
+;;1931 Bank ArgZ;;ZMART;ArgZ;16600.00;
+;;3114 Intäkter Företagsevent;;ZMART;ArgZ;;16600.00
+;;;;;;;
+A 442;2021-02-03;ZMART BG Saab;Övrig insättning;;;;
+;;1931 Bank ArgZ;;ZMART;ArgZ;17600.00;
+;;3114 Intäkter Företagsevent;;ZMART;ArgZ;;17600.00
+;;;;;;;
+A 443;2021-03-31;ZMART ABB;Manuell verifikation;;;;
+;;3114 Intäkter Företagsevent;;ZMART;ArgZ;;20600.00
+;;1790 Övriga förutbetalda kostnader och upplupna intäkter;;ZMART;ArgZ;20600.00;
+;;;;;;;
+A 444;2021-03-31;GTC Marknadsföring;Manuell verifikation;;;;
+;;3112 Intäkter Sponsring;;;ArgZ;;1500.00
+;;1790 Övriga förutbetalda kostnader och upplupna intäkter;;;ArgZ;1500.00;
+;;;;;;;
+A 445;2021-03-31;ZMART-hemsidan;Manuell verifikation;;;;
+;;4109 Inköp av Tjänst;;ZMART;ArgZ;532.00;
+;;2910 Upplupna kostnader;;ZMART;ArgZ;;532.00
+;;;;;;;
+A 446;2021-01-04;Zexet Första Zit;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;10709.00
+;;2910 Upplupna kostnader;;;ZØK;10709.00;
+;;;;;;;
+A 447;2021-01-04;Äventyr med ArgZ;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;1000.00
+;;2910 Upplupna kostnader;;;ZØK;1000.00;
+;;;;;;;
+A 448;2021-02-26;Inköp av idrottsmaterial;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;912.00
+;;6110 Inköp Utrustning;;;ZIK;912.00;
+;;;;;;;
+A 449;2021-02-26;Inköp priser + vandringspokal;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;1261.00
+;;6110 Inköp Utrustning;;;ZIK;1261.00;
+;;;;;;;
+A 450;2021-02-08;Arbetsmat azp;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;425.00
+;;6640 Arbetsmat;;;ZIK;425.00;
+;;;;;;;
+A 451;2021-03-10;Överföring Utlägg barngrill;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;373.65
+;;1942 Bank Överföring;;;;373.65;
+;;;;;;;
+A 452;2021-02-26;Bg-bet. via internet Matchtröjor;Övrigt uttag;;;;
+;;1936 Bank ZIK;;;ZIK;;1914.00
+;;6701 Kostnader Arbetsklädsel;;;ZIK;1194.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;;ZIK;720.00;
+;;;;;;;
+A 453;2021-02-26;Inbetalning medlemsskuld A452;Övrig insättning;;;;
+;;1936 Bank ZIK;;;ZIK;720.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;;ZIK;;720.00
+;;;;;;;
+A 454;2021-01-20;Årlig Swedbank bankkostnad (lägg till bild);Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;;;;58.50
+;;6570 Bankkostnader;;;;58.50;
+;;;;;;;
+A 455;2021-01-22;Försäljning Daltonzkraft;Övrig insättning;;;;
+;;1932 Bank DaltonZ;;DaltonZKraft;DaltonZ;45.00;
+;;3100 Intäkter Mat;;DaltonZKraft;DaltonZ;;45.00
+;;;;;;;
+A 456;2021-01-22;Försäljning DaltonZKraft A455;Manuell verifikation;;;;
+;;1450 Lager;;DaltonZKraft;DaltonZ;;45.00
+;;4000 Inköp av Mat;;DaltonZKraft;DaltonZ;45.00;
+;;;;;;;
+A 457;2021-01-22;Försäljning Daltonzkraft;Övrig insättning;;;;
+;;1932 Bank DaltonZ;;DaltonZKraft;DaltonZ;120.00;
+;;3100 Intäkter Mat;;DaltonZKraft;DaltonZ;;120.00
+;;;;;;;
+A 458;2021-01-22;Försäljning DaltonZKraft A457;Manuell verifikation;;;;
+;;1450 Lager;;DaltonZKraft;DaltonZ;;120.00
+;;4000 Inköp av Mat;;DaltonZKraft;DaltonZ;120.00;
+;;;;;;;
+A 459;2021-01-22;Försäljning Daltonzkraft;Övrig insättning;;;;
+;;1932 Bank DaltonZ;;DaltonZKraft;DaltonZ;45.00;
+;;3100 Intäkter Mat;;DaltonZKraft;DaltonZ;;45.00
+;;;;;;;
+A 460;2021-01-22;Försäljning DaltonZKraft A459;Manuell verifikation;;;;
+;;1450 Lager;;DaltonZKraft;DaltonZ;;45.00
+;;4000 Inköp av Mat;;DaltonZKraft;DaltonZ;45.00;
+;;;;;;;
+A 461;2021-01-25;Försäljning Daltonzkraft;Övrig insättning;;;;
+;;1932 Bank DaltonZ;;DaltonZKraft;DaltonZ;75.00;
+;;3100 Intäkter Mat;;DaltonZKraft;DaltonZ;;75.00
+;;;;;;;
+A 462;2021-01-25;Försäljning DaltonZKraft A461;Manuell verifikation;;;;
+;;1450 Lager;;DaltonZKraft;DaltonZ;;75.00
+;;4000 Inköp av Mat;;DaltonZKraft;DaltonZ;75.00;
+;;;;;;;
+A 463;2021-01-27;Toolab 2 medium ovvar;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Kommittékläder;DaltonZ;;1672.00
+;;6701 Kostnader Arbetsklädsel;;Kommittékläder;DaltonZ;1672.00;
+;;;;;;;
+A 464;2021-02-01;Försäljning Daltonzkraft;Övrig insättning;;;;
+;;1932 Bank DaltonZ;;DaltonZKraft;DaltonZ;75.00;
+;;3100 Intäkter Mat;;DaltonZKraft;DaltonZ;;75.00
+;;;;;;;
+A 465;2021-02-01;Försäljning DaltonZKraft A464;Manuell verifikation;;;;
+;;1450 Lager;;DaltonZKraft;DaltonZ;;75.00
+;;4000 Inköp av Mat;;DaltonZKraft;DaltonZ;75.00;
+;;;;;;;
+A 466;2021-02-01;Försäljning Daltonzkraft;Övrig insättning;;;;
+;;1932 Bank DaltonZ;;DaltonZKraft;DaltonZ;375.00;
+;;3100 Intäkter Mat;;DaltonZKraft;DaltonZ;;375.00
+;;;;;;;
+A 467;2021-02-01;Försäljning DaltonZKraft A466;Manuell verifikation;;;;
+;;1450 Lager;;DaltonZKraft;DaltonZ;;375.00
+;;4000 Inköp av Mat;;DaltonZKraft;DaltonZ;375.00;
+;;;;;;;
+A 468;2021-02-01;Billiga-Arbetskläder 1 medium lång ovve;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Kommittékläder;DaltonZ;;1229.00
+;;6701 Kostnader Arbetsklädsel;;Kommittékläder;DaltonZ;1229.00;
+;;;;;;;
+A 469;2021-02-09;Json 2 M Tall, 1 XS Regular ovve;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Kommittékläder;DaltonZ;;3486.00
+;;6701 Kostnader Arbetsklädsel;;Kommittékläder;DaltonZ;3486.00;
+;;;;;;;
+A 470;2021-02-02;Swish utbetalnin;Övrig insättning;;;;
+;;1937 Bank ZNollK;;;ZØK;1010.00;
+;;1790 Övriga förutbetalda kostnader och upplupna intäkter;;;ZØK;;1010.00
+;;;;;;;
+A 471;2021-01-04;52488996;Övrig insättning;;;;
+;;1937 Bank ZNollK;;;ZØK;3305.00;
+;;1790 Övriga förutbetalda kostnader och upplupna intäkter;;;ZØK;;3305.00
+;;;;;;;
+A 472;2021-03-26;Överföring via internet 830481231666635;Övrigt uttag;;;;
+;;1933 Bank SNZ;;Zaloonenmaterial;SNZ;;368.19
+;;6110 Inköp Utrustning;;Zaloonenmaterial;SNZ;368.19;
+;;;;;;;
+A 473;2021-03-22;Bg-bet. via internet importskatt;Övrigt uttag;;;;
+;;1933 Bank SNZ;;Zaloonenmaterial;SNZ;;235.00
+;;6110 Inköp Utrustning;;Zaloonenmaterial;SNZ;235.00;
+;;;;;;;
+A 474;2021-03-26;Bg-bet. via internet Svea Ekonomi AB;Övrigt uttag;;;;
+;;1933 Bank SNZ;;Zaloonenmaterial;SNZ;;60.00
+;;6110 Inköp Utrustning;;Zaloonenmaterial;SNZ;60.00;
+;;;;;;;
+A 475;2021-03-26;Överföring via internet 830481231666635;Övrigt uttag;;;;
+;;1933 Bank SNZ;;;SNZ;;481.00
+;;6700 Kostnader Representation;;;SNZ;481.00;
+;;;;;;;
+A 476;2021-03-26;Bg-bet. via internet FARNELL COMPONEN;Övrigt uttag;;;;
+;;1933 Bank SNZ;;Zaloonenmaterial;SNZ;;655.00
+;;6110 Inköp Utrustning;;Zaloonenmaterial;SNZ;655.00;
+;;;;;;;
+A 477;2021-03-26;Överföring via internet 55060113906;Övrigt uttag;;;;
+;;1933 Bank SNZ;;;SNZ;;1500.00
+;;6700 Kostnader Representation;;;SNZ;1500.00;
+;;;;;;;
+A 478;2021-03-30;Kortköp/uttag BAGUETTERIA NO 1 K0622;Övrigt uttag;;;;
+;;1933 Bank SNZ;;;SNZ;;1000.00
+;;6610 Gåvor;;;SNZ;1000.00;
+;;;;;;;
+A 479;2021-03-05;Kortköp/uttag STORE K0622;Övrigt uttag;;;;
+;;1933 Bank SNZ;;Zaloonenmaterial;SNZ;;1349.00
+;;6110 Inköp Utrustning;;Zaloonenmaterial;SNZ;1349.00;
+;;;;;;;
+A 480;2021-02-08;Kostnad SUS-utbildning;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Kommittéeutbildning;DaltonZ;;600.00
+;;6702 Kostnader Utbildning;;Kommittéeutbildning;DaltonZ;600.00;
+;;;;;;;
+A 481;2021-02-19;Overaller;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;6081.00
+;;6701 Kostnader Arbetsklädsel;;;ZEXET;6081.00;
+;;;;;;;
+A 482;2021-01-11;Tyg till overaller, saxar, tråd och sprättare;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;1382.00
+;;6701 Kostnader Arbetsklädsel;;;ZEXET;1184.00;
+;;6110 Inköp Utrustning;;;ZEXET;198.00;
+;;;;;;;
+A 483;2021-01-11;Kortköp/uttag iZ *Teknologsektio K2297;Övrigt uttag;;;;
+;;1935 Bank ZEXET;;;ZEXET;;200.00
+;;6701 Kostnader Arbetsklädsel;;;ZEXET;200.00;
+;;;;;;;
+A 484;2021-02-22;Överföring via internet Justering startb;Övrig insättning;;;;
+;;1935 Bank ZEXET;;;ZEXET;10457.07;
+;;1942 Bank Överföring;;;ZEXET;;10457.07
+;;;;;;;
+A 485;2021-03-08;Volvo Cars Transport - Avlämning ovvar till Mera tryckeri;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Kommittékläder;DaltonZ;;213.83
+;;5610 Transportkostnader;;Kommittékläder;DaltonZ;213.83;
+;;;;;;;
+A 486;2021-03-08;Volvo Car Transport - Upphämtning plagg från Mera tryckeri;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Kommittékläder;DaltonZ;;237.83
+;;5610 Transportkostnader;;Kommittékläder;DaltonZ;237.83;
+;;;;;;;
+A 487;2021-03-08;Internrep på Boulebar;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;;DaltonZ;;2370.00
+;;6700 Kostnader Representation;;;DaltonZ;2370.00;
+;;;;;;;
+A 488;2021-03-19;Intäkter Et-raj Lp3 Biljettförsäljning;Övrig insättning;;;;
+;;1932 Bank DaltonZ;;ET-Raj;DaltonZ;875.00;
+;;3110 Intäkter Biljettförsäljning;;ET-Raj;DaltonZ;;875.00
+;;;;;;;
+A 489;2021-03-18;Knapp-Carlsson Inköp revärer och sytråd;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Kommittékläder;DaltonZ;;1139.00
+;;6701 Kostnader Arbetsklädsel;;Kommittékläder;DaltonZ;1139.00;
+;;;;;;;
+A 490;2021-03-19;WILLYS HEMMA GÖTEBORG K5973;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;ET-Raj;DaltonZ;;221.50
+;;4000 Inköp av Mat;;ET-Raj;DaltonZ;196.60;
+;;6120 Inköp Förbrukningsmaterial;;ET-Raj;DaltonZ;24.90;
+;;;;;;;
+A 491;2021-03-29;Volvo Car Transport  - Mat ET-raj Lp3;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;ET-Raj;DaltonZ;;252.00
+;;5610 Transportkostnader;;ET-Raj;DaltonZ;252.00;
+;;;;;;;
+A 492;2021-03-29;Inköp Mat Et-Raj;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;ET-Raj;DaltonZ;;580.06
+;;4000 Inköp av Mat;;ET-Raj;DaltonZ;580.06;
+;;;;;;;
+A 493;2021-03-29;Inköp Ägg Påskjakt;Övrigt uttag;;;;
+;;1932 Bank DaltonZ;;Påskäggsjakt;DaltonZ;;137.77
+;;6120 Inköp Förbrukningsmaterial;;Påskäggsjakt;DaltonZ;137.77;
+;;;;;;;
+A 494;2021-02-02;Fel inloggning iZettle onsdagslunch;Övrig insättning;;;;
+;;1932 Bank DaltonZ;;Onsdagslunch;DaltonZ;25.00;
+;;1942 Bank Överföring;;Onsdagslunch;Ztyret;;25.00
+;;;;;;;
+A 495;2021-02-26;Inbetalning av medlemsskuld (20/21-verifikationsnummer);Övrig insättning;;;;
+;;1932 Bank DaltonZ;;Kommittékläder;DaltonZ;2529.00;
+;;1610 Kortfristiga fordringar hos medlemmar;;Kommittékläder;DaltonZ;;2529.00
+;;;;;;;
+A 496;2021-04-19;Store Znollk;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;203.00
+;;6701 Kostnader Arbetsklädsel;;;ZØK;203.00;
+;;;;;;;
+A 497;2021-04-19;Knapp-carlson Znollk;Övrigt uttag;;;;
+;;1937 Bank ZNollK;;;ZØK;;570.00
+;;6701 Kostnader Arbetsklädsel;;;ZØK;570.00;
+;;;;;;;
